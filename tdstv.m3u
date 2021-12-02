@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group-title="TDStv" logo="https://www.bursatv.com.tr/images/banner/bursa-tv.png", BURSA TV
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
