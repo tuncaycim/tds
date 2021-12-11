@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.11" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
+#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.12" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
 https://www.youtube.com/watch?v=ydOcrOkwcnk
 #EXTINF:0 type="stream" channelId="1056" group="ULUSAL" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQNwACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master720.m3u8
