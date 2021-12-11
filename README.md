@@ -1,9 +1,16 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
-Oh! I haven't introduced myself...
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+# TDS
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FTDSmix)](https://t.me/TDSmix)
 
-I'll meet you over there, can't wait to get started!
+Kişisel deneysel şeyler. 
+
+Zamanla çözeriz artık. :)
+
+## TDSmix
+
+Kanala gitmek için <https://t.me/TDSmix> adresini ziyaret edebilirsiniz.
+
+## ADRES
+
+Henüz aktif olmasa da adresim : <https://tdsmix.net> !
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
