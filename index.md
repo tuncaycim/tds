@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hobi Televizyon IP Listesidir"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Herkesin ulaşabileceği kanallar listelenir ...
