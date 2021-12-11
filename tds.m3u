@@ -537,6 +537,7 @@ https://yayin.santraltr.com/hls/toppop.m3u8
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 #EXTINF:0 type="stream" channelId="1476" group="MÜZİK MODA", 1HD Music
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
 #EXTINF:0 type="stream" channelId="601" group="MÜZİK MODA", 4FUN TV HD
 https://stream.4fun.tv:8888/hls/4fhigh/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://1.bp.blogspot.com/-RTsjKEKuJ7U/YU8BVoDuMZI/AAAAAAAAUck/zs00VY3CI0UN6X8UuS9EwU6kmfak5W6pQCLcBGAsYHQ/s300/biztv.jpg", Biz Music HD
@@ -1906,7 +1907,7 @@ http://onlinetv.ktrk.kg:1935/live/myStream3/chunklist.m3u8
 http://onlinetv.ktrk.kg:1935/live/myStream/chunklistw529107302.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://i.imgur.com/96qiuLD.png", KTRK Sport
 http://onlinetv.ktrk.kg:1935/live/myStream4/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="148" group="TÜRKİSTAN" logo="https://i.imgur.com/Xm2skAk.png", MUZiK KTRK
+#EXTINF:0 type="stream" channelId="148" group="TÜRKİSTAN" logo="https://i.imgur.com/Xm2skAk.png", KTRK Müzik
 http://onlinetv.ktrk.kg:1935/live/myStream2/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://i.imgur.com/IY0ub7r.png", Biz TV
 https://st.biztv.uz/hls/streamhi/index.m3u8
@@ -1916,23 +1917,23 @@ https://st.biztv.uz/hls/chi/index.m3u8
 https://st.biztv.uz/hls/mhi/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://i.imgur.com/yKkZYuT.png", Kurai TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://i.imgur.com/E6kcekp.png", Tataristan - TNV Planeta
+#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://i.imgur.com/E6kcekp.png", TNV Planeta
 https://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://i.imgur.com/1Q5alos.png", Arkhyz 24
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://1.bp.blogspot.com/-364t1zXiMwE/YDZ7XWpatOI/AAAAAAAARTc/33UaqKnqjYoy6n3Mvh2PnIeGTfUUoF9gCLcBGAsYHQ/w139-h110/turkmenistan.jpg" tvg-country="TM", Turkmenistan TV
 http://alpha.tv.online.tm/hls/ch007400/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/altynasyrtv-webtvonlive-com.jpg" tvg-country="TM", Turkmen Altyn Asyr TV
+#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/altynasyrtv-webtvonlive-com.jpg" tvg-country="TM", Altın Asır TV
 http://alpha.tv.online.tm/legacyhls/ch001720/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" tvg-country="TM", Turkmen Asgabat TV
+#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" tvg-country="TM", Aşgabat TV
 http://alpha.tv.online.tm/legacyhls/ch006720/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" tvg-country="TM", Turkmenistan Miras TV
+#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" tvg-country="TM", Miras TV
 http://alpha.tv.online.tm/legacyhls/ch003720/index.m3u8
-#EXTINF:0 type="stream" channelId="375" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" tvg-country="TM", Turkmen Owazy
+#EXTINF:0 type="stream" channelId="375" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" tvg-country="TM", Turkmen Avazı
 http://alpha.tv.online.tm/legacyhls/ch005720/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" tvg-country="TM", Turkmen Yaslyk TV
+#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" tvg-country="TM", Yaşlık TV
 http://alpha.tv.online.tm/legacyhls/ch002720/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://telecom.tm/img/tv/4.png", TURKMEN SPORT
+#EXTINF:0 type="stream" channelId="-1" group="TÜRKİSTAN" logo="https://telecom.tm/img/tv/4.png", Türken Spor
 http://alpha.tv.online.tm/hls/ch004720/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="İRAN", VOX 1
 http://51.210.199.8/hls/stream.m3u8
@@ -2112,9 +2113,9 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream1@178944/master.m3u8
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:0 type="stream" channelId="2128" group="FRANSA", M6 INT FHD
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index2.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FRANSA" logo="https://i.ibb.co/drk4BWw/tv5inf.png", TV5MONDE INFO
+#EXTINF:0 type="stream" channelId="-1" group="FRANSA" logo="https://i.ibb.co/drk4BWw/tv5inf.png", TV5 Monde info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:0 type="stream" channelId="2201" group="FRANSA" logo="https://upload.wikimedia.org/wikipedia/en/6/63/AlJazeeraMubasher.png", TV5 Monde info-YEDEK
+#EXTINF:0 type="stream" channelId="2201" group="FRANSA" logo="https://upload.wikimedia.org/wikipedia/en/6/63/AlJazeeraMubasher.png", TV5 Monde info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls11.m3u8
 #EXTINF:0 type="stream" channelId="5" group="RUSYA", RUSSiA K
 https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
@@ -2150,20 +2151,16 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv32500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir242500/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1727" group="RUSYA", MNP RECTV
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1476" group="RUSYA", Music 1HD Russia
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="260" group="RUSYA", Nano TV RU
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:0 type="stream" channelId="11" group="RUSYA", PEH TB
+#EXTINF:0 type="stream" channelId="11" group="RUSYA", REN TV
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="301" group="RUSYA", RTG
 http://ott-cdn.ucom.am/s63/03.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="RUSYA" logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logonebesashort.png", TB7 Russia
+#EXTINF:0 type="stream" channelId="-1" group="RUSYA" logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logonebesashort.png", Tv7 Russia
 http://vod.tv7.fi:1935/tv7-ru/definst/smil:tv7-ru.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1763" group="RUSYA", Univer TV Russia
 https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="984" group="RUSYA", VIVA TV Russia
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #EXTINF:0 type="stream" channelId="3960" group="RUSYA", Vetta 24 RU
 http://serv24.vintera.tv:8081/vetta/vettaoffice/playlist.m3u8
 #EXTINF:0 type="stream" channelId="212" group="RUSYA", TeleKanal 360 Russia
@@ -2208,9 +2205,9 @@ https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ISRAIL" logo="https://i.imgur.com/lBbbPI4.jpg", 24 LIVE Israel
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="https://www.radiocompany.com/wp-content/uploads/2018/05/logo-bokka-png-radio-company-2018.png", Company TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://www.radiocompany.com/wp-content/uploads/2018/05/logo-bokka-png-radio-company-2018.png", Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="https://www.contact.tv/wp-content/uploads/2020/12/grande.png" background="#000000", CONTACT music
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://www.contact.tv/wp-content/uploads/2020/12/grande.png" background="#000000", CONTACT music
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="https://www.sony-asia.com/image/fc032c6f94c98631d6021a89dc17bfd7?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320", DJ Frenzy Radio - EDM
 http://109.74.206.14:8120/stream;
@@ -2220,23 +2217,23 @@ http://listen2.myradio24.com:9000/8226
 http://ice2.somafm.com/suburbsofgoa-32-aac
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://cdn9.s.kolorado.ru/products/1/14/148/14812/101_1_1_design.png", Hard Sound Radio
 http://198.27.66.225:9170/stream?type=http&nocache=2563
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", HIT Music
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", HIT Music
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", M20
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", M20
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://cdn9.s.kolorado.ru/products/1/14/148/14812/101_1_1_design.png", Miled Music EBM
 http://192.99.34.205:8227/stream
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://cdn9.s.kolorado.ru/products/1/14/148/14812/101_1_1_design.png", Mindestverzehr
 https://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
-#EXTINF:0 type="stream" channelId="1106" group="MUZIK", MTV Norway
+#EXTINF:0 type="stream" channelId="1106" group="MÜZİK MODA", MTV Norway
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://cdn9.s.kolorado.ru/products/1/14/148/14812/101_1_1_design.png", PulseEDM
 http://pulseedm.cdnstream1.com:8124/1373_128
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://cdn9.s.kolorado.ru/products/1/14/148/14812/101_1_1_design.png", Radio Gora-Hip Hop
 http://listen.radiogora.ru:8000/hiphop128
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Retro Music Tv
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Retro Music Tv
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="45" group="MUZIK", RU.TV
+#EXTINF:0 type="stream" channelId="45" group="MÜZİK MODA", RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://cdn9.s.kolorado.ru/products/1/14/148/14812/101_1_1_design.png", The TRIP
 http://ice2.somafm.com/thetrip-32-aac
@@ -2246,53 +2243,53 @@ http://mds-station.com:8000/mds
 http://320kbps.radio-nashestvie.ru:9000/9857
 #EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="https://cdn6.aptoide.com/imgs/5/1/c/51cf722b5c6d1c89348dc49e1fc3df07_icon.png", KiTAP RADIO
 http://bookradio.hostingradio.ru:8069/fm
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", WOW!TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", WOW!TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", WOW!TV HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", WOW!TV HD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="https://ia801804.us.archive.org/19/items/1-mus.-tv/1MUS.TV.jpg", 1 Mus HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://ia801804.us.archive.org/19/items/1-mus.-tv/1MUS.TV.jpg", 1 Mus HD
 http://rtmp.one.by:1200
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="https://ia801804.us.archive.org/19/items/1-mus.-tv/1MUS.TV.jpg", 1 Mus FHD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://ia801804.us.archive.org/19/items/1-mus.-tv/1MUS.TV.jpg", 1 Mus FHD
 http://rtmp.one.by:1300
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="http://www.giniko.com/logos/190x110/1043.jpg", 1 Mus RU HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="http://www.giniko.com/logos/190x110/1043.jpg", 1 Mus RU HD
 http://rtmp.one.by:2200
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="http://www.giniko.com/logos/190x110/1043.jpg", 1Mus RU FHD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="http://www.giniko.com/logos/190x110/1043.jpg", 1Mus RU FHD
 http://rtmp.one.by:2300
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others-thumbnail.png", 1HD Music TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others-thumbnail.png", 1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK" logo="https://lh3.googleusercontent.com/proxy/VV5hiuG_Sd6fyh-VTJwF6OYhIQDjuo_I9QjMMngP-eu6b5JDgEw0t4nK-kgx5fhA01Yl2WoCL6Nxge3iQo5kMGjrGn_2OwYQfjd_p3J-6PuYbYpcRnYG8ztWW_tKXtUMpUO2XmwQMh5uV_99oXonSw", Metal TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://lh3.googleusercontent.com/proxy/VV5hiuG_Sd6fyh-VTJwF6OYhIQDjuo_I9QjMMngP-eu6b5JDgEw0t4nK-kgx5fhA01Yl2WoCL6Nxge3iQo5kMGjrGn_2OwYQfjd_p3J-6PuYbYpcRnYG8ztWW_tKXtUMpUO2XmwQMh5uV_99oXonSw", Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Radio Van 103.0 FM Yerevan
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
-#EXTINF:0 type="stream" channelId="2285" group="MUZIK", M2O TV
+#EXTINF:0 type="stream" channelId="2285" group="MÜZİK MODA", M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Sonus FM
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Радио ХИТ (Орск)
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Радио ХИТ (Орск)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Страна FM HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Kronehit HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Reload Radio Music Power HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", РORTAL FOXMIX TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", РORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", RETRO MUSIC TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Евроденс 90х
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Евроденс 90х
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:0 type="stream" channelId="47" group="MUZIK", Шансон ТВ
+#EXTINF:0 type="stream" channelId="47" group="MÜZİK MODA", Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Радио Шансон ТВ HD
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Радио Шансон ТВ HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0 type="stream" channelId="936" group="MUZIK", Жар Птица
+#EXTINF:0 type="stream" channelId="936" group="MÜZİK MODA", Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3165" group="MUZIK", МузСоюз
+#EXTINF:0 type="stream" channelId="3165" group="MÜZİK MODA", МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Radio Capital
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Radio Capital
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MUZIK", Релакс
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA", Релакс
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="RUSYA", AXN Sci-Fi
 http://37.17.12.119:8907/play/a009
