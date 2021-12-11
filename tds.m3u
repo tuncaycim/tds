@@ -137,8 +137,10 @@ http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 http://145.239.37.125:20458/baskantv/baskantv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitsWDJQyL-9EEEmimh1jl2CFRuihoK1b9flvXAfqc3VTKQ9IrjUNtRBlBDZFM3lGoNOFYzmiWePG4n5pPVQiL0vc3kp1oSwax80gmvnqlsCy9Fl26zeObeVmRi6jKGcwTqZ1HBr8R1uwNodsSd5NzT46g-6c6ZGIBiSt8uVzyvCIk9MpKwfiDTQ", BOX KEMAL SUNAL TV
 http://istanbul.tvizlehd.com/live//sabantv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-bsNEF6lMbtg/XuJWBTB9JUI/AAAAAAAANso/3BIaAuuuF4zhCdxndSpcgHgtYGLW180QCLcBGAsYHQ/s1600/C%25C4%25B0NE5TV.PNG", CiNE5 TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://cine5tv.com.tr/wp-content/uploads/2021/01/cropped-68858337_486935001869660_3792043784032747520_n.png", CINE5 TV HD
 https://cdn1-cine5tv.yayin.com.tr/cine5tv/amlst:cine5tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://cine5tv.com.tr/wp-content/uploads/2021/01/cropped-68858337_486935001869660_3792043784032747520_n.png", CINE5tv
+https://host.onlineradyotv.net:1936/cine5/cine5/chunklist_w457921828.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwwvL7O9d36pvJDHnI4CRrvMGWowlSNsXc2zHgxqyaP22fUhmCUUei51Jx55GBi0zmZy4I3ZRs0oVKFBBFSGzkjKxOi2P7FewGCNynYDhxRjQz8sRoFptbDMczcrxPwPMiJidnsO-18KkOuD0HwYvWTr2F3KfcHDlBNtWo8KZsGmsGfAyCwaKdRT6A=w102-h97", DURAK TV
 http://145.239.37.125:20458/duraktv/duraktv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgv5llNN2cMs6f-O2wTFzriH4XNSer4fQA9UDtt1ae-9r7g5bd1u823mMyJeEusDlasLzh2ylcgxOd-SBl6kFEpPXIH-GBymh5fCmjrTVlFkr0lihyMKtorYAubtI-JEaQH2NtMsb1JzR8EHprn3MJ32l13Vwbjji8O5h4HSzNTu2oGgN8UfJm9-A=w71-h71", DiZi TV TDC HD
@@ -163,15 +165,15 @@ http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/ch
 http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi0gOPAtzZG3kNgfYJcTJaCwKxacaz8aNNDYUa26eaWyWmCY0JTjWyIk1LRKq6XEg9Zb1aMxvno2Ytok-Ve-bzGOSAugSMmFlyS0pvfDAbowempdyL8oKt22DiZm4Gxk8me4CIF1hzIkCskBhqkKviu3YzfXRJuGHBQjHjo0wOK9v4FP1SZFf94A=w156-h39", MiSKET TV HD
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 HD
+#EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 HD
 http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 YEDEK
+#EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 YEDEK
 https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-HcG6URnw4ak/X40uPh-Yz5I/AAAAAAAAPW0/KVVbXwNTubgKhRcCgPJGQL4BqfNd6C3XgCLcBGAsYHQ/s320/petratv.png", PETRA TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV-2" logo="https://1.bp.blogspot.com/-HcG6URnw4ak/X40uPh-Yz5I/AAAAAAAAPW0/KVVbXwNTubgKhRcCgPJGQL4BqfNd6C3XgCLcBGAsYHQ/s320/petratv.png", PETRA TV HD
 http://tt61.mine.nu/live/PetraTV/Fw99Gpq7Gq/6478.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXpML9gmRsiacLHTt-XWoyAkl7avdt-mfwJ1Nq0Ape5AHcSUFlxQawfvKDsTerkF5QdvK1H3jf8Hqbzkpdw14wZbRxjc-OlEij2PVUf9ugowX8tB9LnNGIdV4tMmspy3h7ZnxZge-VEajdODkokTP22KbfbtVkNKu609jVoouKEf2p-OnkCdmgjdZw", SURMELi TV HD
 http://hd9994.4kradyotv.com:26606/srmltv/srmltv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGkzfkAY7tRZH5mb4YUA2qhOPVVU8DBA8CeOTiOPkQktVwIe1xXleqCLKhBPXShBX5xMlyLoT433DzeqptNTl28xNBz0T2EoJToF162VL1t9h1d11STs-Q2n0URoH9FeqjqfX4nq1Q8qhm9mmBzwHP10Oa4kvtIY98zwEDHU-fPDWSGMN9DfBqkovhw=w157-h59", TiVi 6 HD
+#EXTINF:0 type="stream" channelId="-1" group="ULUSAL" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGkzfkAY7tRZH5mb4YUA2qhOPVVU8DBA8CeOTiOPkQktVwIe1xXleqCLKhBPXShBX5xMlyLoT433DzeqptNTl28xNBz0T2EoJToF162VL1t9h1d11STs-Q2n0URoH9FeqjqfX4nq1Q8qhm9mmBzwHP10Oa4kvtIY98zwEDHU-fPDWSGMN9DfBqkovhw=w157-h59", TiVi 6 HD
 https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-21vaWs-lNPM/YFQ-Q09NRMI/AAAAAAAAR88/YVvsOMuOnZ8EIb1COImZnIiYu4CrOBiLQCLcBGAsYHQ/w99-h46/TURKUVAZTV.png", TURKUVAZ TV WESTERN
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5243.m3u8
@@ -347,9 +349,9 @@ https://halktv-live.ercdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/blutvhalktv2/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV SD
 http://istanbul.tvizlehd.com/live/halktv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-DFggH1Gt9EU/X520XLD1a0I/AAAAAAAAPdw/doAtipUWVwFh7uzdg6XMNT9QYrhxjrFQCLcBGAsYHQ/s400/KRT%2BLOGO.png", KRT TV HD
+#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://www.krttv.com.tr/images/banner/krt_tv_logo.png", KRT TV HD
 https://mn-nl.mncdn.com/blutvkrt/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-DFggH1Gt9EU/X520XLD1a0I/AAAAAAAAPdw/doAtipUWVwFh7uzdg6XMNT9QYrhxjrFQCLcBGAsYHQ/s400/KRT%2BLOGO.png", KRT TV SD
+#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://www.krttv.com.tr/images/banner/krt_tv_logo.png", KRT TV SD
 http://istanbul.tvizlehd.com/live/krttv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://yt3.ggpht.com/a/AATXAJxQje5n5vTBcpygj-LvPVxQ2PGSK2KAuiLvg=s288-c-k-c0xffffffff-no-rj-mo", CAN TV HD
 http://canbroadcast.com:7000/canlican/tv.m3u8
@@ -363,8 +365,8 @@ http://istanbul.tvizlehd.com/live/sozcutv.m3u8
 https://mn-nl.mncdn.com/blutvtele1dvr/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 SD TR
 http://istanbul.tvizlehd.com/live/tele1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-EMwZw1FeRk8/YKoIB2zfiTI/AAAAAAAATuY/buvf1ANh6YPp-1qG5godzqnqEWSvSvKACLcBGAsYHQ/s220/tv5tr.png", TV5 TR
-http://istanbul.tvizlehd.com/live/tv5.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://www.tv5.com.tr/files/uploads/logo/bd49707cb2.png", TV5 TR
+https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-ALgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD TR
 https://mn-nl.mncdn.com/blutvtv1002/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-ALgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 SD TR
@@ -1055,7 +1057,7 @@ http://istanbul.tvizlehd.com/live/tv35.m3u8
 https://59cba4d34b678.streamlock.net/live/tv38/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4019" group="YEREL", TV 41 KOCAELi
 http://yerelmedya.tv:1935/tv41/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="YEREL", TV 48
+#EXTINF:0 type="stream" channelId="-1" group="YEREL", logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
 https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-e0hX43YpPc4/Xos44ubcydI/AAAAAAAALbI/WjQq7w2wVtwLE16NBAiqtl0NuXQGcc-GQCLcBGAsYHQ/s1600/tv52-yeni.png", TV 52
 https://edge1.socialsmart.tv/tv52/bant1/chunks.m3u8
@@ -1753,6 +1755,8 @@ http://93.157.62.180/TringWorld/index.m3u8
 http://93.157.62.180/TringSport1HD/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ELIT VIP 3", Tring Sport 2
 http://93.157.62.180/TringSport2HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ELIT VIP 3", Tring Sport 3
+http://93.157.62.180/TringSport3HD/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ELIT VIP 3", Tring International
 http://93.157.62.180/TringInternational/index.m3u8
 #EXTINF:0 type="stream" channelId="5136" group="ELIT VIP 3", Klan Kosova
@@ -2200,7 +2204,7 @@ https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BULGAR", PERVIY KANAL
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ISTAIL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", Kan Educational
+#EXTINF:0 type="stream" channelId="-1" group="ISRAIL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", Kan Educational
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ISRAIL" logo="https://i.imgur.com/lBbbPI4.jpg", 24 LIVE Israel
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
@@ -3059,6 +3063,8 @@ http://radyo.turkuradyo.net:4591/;
 http://s3.yesstreaming.net:7062/stream;
 #EXTINF:0 type="stream" channelId="-1" group="RADYO", logo="http://www.radio2019.com.tr/wp-content/uploads/2018/04/alt_radio_2019_logo.png", 2019
 http://31.210.157.103:80/stream/494/;
+#EXTINF:0 type="stream" channelId="-1" group="RADYO", logo="https://pbs.twimg.com/profile_images/741160892189028352/klVU7ucz.jpg", BNR KIRCAALİ
+https://edge16.cdn.bg:20320/fls/Kardzhali.stream/chunklist_w57022820.m3u8
 
 #EXTINF:-1 group-title="Russia",Sochi - Морвокзал Сочи  улица Несебрская
 https://sochi.camera:8081/cam_227/tracks-v1/mono.m3u8
