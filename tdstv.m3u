@@ -3,3 +3,613 @@
 https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="TDStv" logo="https://www.bursatv.com.tr/images/banner/bursa-tv.png", 2019
 http://31.210.157.103/index.html?sid=494
+#EXTINF:-1 group-title="Russia",Sochi - Морвокзал Сочи  улица Несебрская
+https://sochi.camera:8081/cam_227/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж Лоо - Восточная часть
+https://sochi.camera:8081/cam_88/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Парк Горького 2
+https://sochi.camera:8081/cam_18/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Краснодарское кольцо
+https://sochi.camera:8081/cam_10/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Парк Горького 3
+https://sochi.camera:8081/cam_19/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект
+https://sochi.camera:8081/cam_30/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Конституции/Московская 2
+https://sochi.camera:8081/cam_34/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекресток Конституции/Парковая
+https://sochi.camera:8081/cam_145/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Океанариум SDWA - коралловый риф
+https://sochi.camera:8081/cam_40/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Олимпийский парк
+https://sochi.camera:8081/cam_139/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 540  главная прогулочная аллея  ул. Горная карусель
+https://sochi.camera:8081/cam_s49/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. Роза Пик 2320м.
+https://sochi.camera:8081/cam_s67/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Мелководный причал морпорта
+https://sochi.camera:8081/cam_52/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - ЖК Парк Горького  вид на море и центр Сочи
+https://sochi.camera:8081/cam_214/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Улица им. Горького
+https://sochi.camera:8081/cam_198/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Кубанское кольцо
+https://sochi.camera:8081/cam_7/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Улица им. Горького  привокзальная площадь
+https://sochi.camera:8081/cam_199/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекрёсток Орджоникидзе/Соколова
+https://sochi.camera:8081/cam_r17/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Платановая аллея  Курортный проспект
+https://sochi.camera:8081/cam_142/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Транспортная 2
+https://sochi.camera:8081/cam_36/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Соколова/Орджоникидзе
+https://sochi.camera:8081/cam_41/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Обзорная.
+https://sochi.camera:8081/cam_37/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 2200  обзорная
+https://sochi.camera:8081/cam_s44/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 960  главная площадь
+https://sochi.camera:8081/cam_s48/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 960  зона выката 2F и учебный склон
+https://sochi.camera:8081/cam_s51/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. "Горная Олимпийская деревня".
+https://sochi.camera:8081/cam_s64/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Завокзальный мемориальный комплекс
+https://sochi.camera:8081/cam_3/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекресток Горького/Северная
+https://sochi.camera:8081/cam_134/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - перекрёсток Воровского/Несебрская
+https://sochi.camera:8081/cam_21/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  высота +1460 м  зона выката трассы 3А
+https://sochi.camera:8081/cam_251/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект  Ривьерский мост
+https://sochi.camera:8081/cam_143/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный / Учительская
+https://sochi.camera:8081/cam_42/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Торговая галерея  4 блок
+https://sochi.camera:8081/cam_159/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Лазаревское
+https://sochi.camera:8081/cam_47/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Абхазия  КПП «Псоу» со стороны России
+https://sochi.camera:8081/cam_160/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Прямая трансляция с борта МКС
+https://sochi.camera:8081/cam_55/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  горная долина Цирк-2  высота +2050 м  трасса 4A
+https://sochi.camera:8081/cam_s60/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. "Горная Олимпийская деревня". Вид на Детский склон.
+https://sochi.camera:8081/cam_s65/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект/ул.Соколова
+https://sochi.camera:8081/cam_2/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  Рыночное кольцо
+https://sochi.camera:8081/cam_136/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - перекрёсток Несебрская/Войкова
+https://sochi.camera:8081/cam_22/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 2200  ресторан "Вершина"
+https://sochi.camera:8081/cam_111/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Конституции/Северная + немного Чайковского
+https://sochi.camera:8081/cam_33/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Ривьерский мост  Курортный проспект
+https://sochi.camera:8081/cam_144/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Городской пляж
+https://sochi.camera:8081/cam_133/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Океанариум SDWA - карпы
+https://sochi.camera:8081/cam_39/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пансионат Нева. Поворотная.
+https://sochi.camera:8081/cam_221/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Абхазия  КПП «Псоу» со стороны Гагры
+https://sochi.camera:8081/cam_161/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 540  главная канатная дорога
+https://sochi.camera:8081/cam_s53/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1600м. Отметка «Роза 1600».
+https://sochi.camera:8081/cam_s66/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж возле ресторана «Старгород»
+https://sochi.camera:8081/cam_38/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Морпорт Сочи
+https://sochi.camera:8081/cam_9/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж Лоо - западная часть
+https://sochi.camera:8081/cam_89/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Выезд с Макаренко
+https://sochi.camera:8081/cam_1/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлерское кольцо
+https://sochi.camera:8081/cam_5/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Завокзальный мемориальный комплекс
+https://sochi.camera:8081/cam_4/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Площадь Искусств 2 ● HD
+https://sochi.camera:8081/cam_20/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Донская (Мясокомбинат)
+https://sochi.camera:8081/cam_31/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Транспортная 1
+https://sochi.camera:8081/cam_35/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гагарина / Красноармейская
+https://sochi.camera:8081/cam_r40/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пластунская/Кипарисовая
+https://sochi.camera:8081/cam_44/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Фрегат
+https://sochi.camera:8081/cam_187/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 540  ярмарка
+https://sochi.camera:8081/cam_s50/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  развязка ул. Мира и Насыпной
+https://sochi.camera:8081/cam_6/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  горная долина Цирк-2  высота +2050 м
+https://sochi.camera:8081/cam_s58/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1600м. Отметка «Роза 1600». Вид на трассы «Каскад»  «Тритон» и «Вираж».
+https://sochi.camera:8081/cam_s63/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100 м. "Горная Олимпийская деревня". Вид на Учебный склон.
+https://sochi.camera:8081/cam_s68/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 560м. Роза Долина. Вид на Романов мост и здание Ратуши.
+https://sochi.camera:8081/cam_s70/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 560м. Роза Долина. Вид на площадь Мзымта.
+https://sochi.camera:8081/cam_s71/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2100м. Цирк Роза Хутор.
+https://sochi.camera:8081/cam_s72/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж ТРЦ «Мандарин» в Адлере
+https://sochi.camera:8081/cam_80/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дагомыс - обзорная
+https://sochi.camera:8081/cam_83/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж оздоровительного комплекса «Дагомыс»
+https://sochi.camera:8081/cam_85/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - устье реки Западный Дагомыс
+https://sochi.camera:8081/cam_86/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - «Апарт-отель Adagio Le Rond Sochi»
+https://sochi.camera:8081/cam_87/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Ленинградская/Батумское
+https://sochi.camera:8081/cam_95/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Батумское шоссе
+https://sochi.camera:8081/cam_96/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". "Поляна 1389 Отель и Спа". Коттеджный поселок. +1389
+https://sochi.camera:8081/cam_97/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Альпика Сервис
+https://sochi.camera:8081/cam_100/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Лаура"). Трасса Н. +1660
+https://sochi.camera:8081/cam_101/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Лаура"). Трасса I.  +1660
+https://sochi.camera:8081/cam_103/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гагарина/Чайковского
+https://sochi.camera:8081/cam_105/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гагарина / Грузовой двор
+https://sochi.camera:8081/cam_106/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дублёр Курортного проспекта
+https://sochi.camera:8081/cam_107/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Лаура"). Лыжно-биатлонный комплекс "Лаура". +1470
+https://sochi.camera:8081/cam_108/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Канатная дорога 3S (А3). Курорт "Газпром". +1660
+https://sochi.camera:8081/cam_113/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекресток улиц Виноградная  Госпитальная и Пирогова
+https://sochi.camera:8081/cam_114/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Обход Сочи / Дублёр  Мамайка
+https://sochi.camera:8081/cam_115/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Мамайский перевал 1
+https://sochi.camera:8081/cam_116/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Мамайский перевал 2
+https://sochi.camera:8081/cam_117/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дублёр Курортного / Батумское шоссе
+https://sochi.camera:8081/cam_119/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Лаура"). Хаски Парк. +1470
+https://sochi.camera:8081/cam_120/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Телеканал Сочи 24 ((●))
+https://sochi.camera:8081/cam_128/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Въезд в посёлок Лоо
+https://sochi.camera:8081/cam_122/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дагомыс  Батумское шоссе
+https://sochi.camera:8081/cam_124/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Лоо
+https://sochi.camera:8081/cam_126/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Лоо
+https://sochi.camera:8081/cam_127/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий Магадан
+https://sochi.camera:8081/cam_129/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Лазаревское  мост через реку Псезуапсе
+https://sochi.camera:8081/cam_131/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Развлекательный центр «Галактика». +550
+https://sochi.camera:8081/cam_135/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект  Пролетарский спуск
+https://sochi.camera:8081/cam_137/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект в районе музыкальной школы
+https://sochi.camera:8081/cam_138/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гепард
+https://sochi.camera:8081/cam_146/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Тигры
+https://sochi.camera:8081/cam_147/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Тигры
+https://sochi.camera:8081/cam_148/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Тигры
+https://sochi.camera:8081/cam_149/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Рыси
+https://sochi.camera:8081/cam_156/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Лев Симба
+https://sochi.camera:8081/cam_158/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Зелёные мартышки
+https://sochi.camera:8081/cam_162/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Венценосный журавль Лордик. ((●))
+https://sochi.camera:8081/cam_163/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Канадские пумы
+https://sochi.camera:8081/cam_164/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  ул. Каспийская
+https://sochi.camera:8081/cam_169/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - «Магнит» в Адлере
+https://sochi.camera:8081/cam_170/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  аэропорт  горная панорама
+https://sochi.camera:8081/cam_171/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Донская  мясокомбинат
+https://sochi.camera:8081/cam_172/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - подъём на Макаренко
+https://sochi.camera:8081/cam_177/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - пересечение ул. Пластунская/Макаренко
+https://sochi.camera:8081/cam_178/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - ул. Пластунская/Конституции в районе ЦАРМа
+https://sochi.camera:8081/cam_179/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  ул. Ленина в районе гостиницы «Весна»
+https://sochi.camera:8081/cam_180/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  ул. Ленина  разворот на заправке
+https://sochi.camera:8081/cam_181/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  ул. Ленина  район заправки
+https://sochi.camera:8081/cam_182/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дагомыс  Батумское шоссе
+https://sochi.camera:8081/cam_183/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дагомыс  ул. Российская
+https://sochi.camera:8081/cam_184/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дагомыс  перекрёсток Батумского шоссе и ул. Российской
+https://sochi.camera:8081/cam_185/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дагомыс  въезд со стороны центра Сочи
+https://sochi.camera:8081/cam_186/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - ЖК Актёр Гэлакси
+https://sochi.camera:8081/cam_188/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект / ул. 20й ГСД
+https://sochi.camera:8081/cam_189/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект  поворот на «Золотой колос»
+https://sochi.camera:8081/cam_190/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Парк у морвокзала
+https://sochi.camera:8081/cam_191/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Лига дворового футбола 2
+https://sochi.camera:8081/cam_193/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекрёсток ул.Пластунская
+https://sochi.camera:8081/cam_194/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж «Маяк»  западная сторона
+https://sochi.camera:8081/cam_195/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж «Маяк»  восточная сторона
+https://sochi.camera:8081/cam_196/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий «Октябрьский»  аквапарк
+https://sochi.camera:8081/cam_200/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий «Октябрьский»  главный корпус  дорога к зоопарку
+https://sochi.camera:8081/cam_201/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - улица Навагинская в районе ЦУМа
+https://sochi.camera:8081/cam_202/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Аредовский мост
+https://sochi.camera:8081/cam_204/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Мамайский перевал 5
+https://sochi.camera:8081/cam_207/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - ул. Транспортная
+https://sochi.camera:8081/cam_215/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Транспортная/Водораздельная
+https://sochi.camera:8081/cam_216/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Донская  поворот на Моремолл
+https://sochi.camera:8081/cam_217/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Донская  в районе магазина "Бегемот"
+https://sochi.camera:8081/cam_218/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Виноградная / Политехническая
+https://sochi.camera:8081/cam_225/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горького / Войкова
+https://sochi.camera:8081/cam_230/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горького / К.Либкнехта
+https://sochi.camera:8081/cam_231/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. "Горная Олимпийская деревня". Вид на  подъёмник Ювента.
+https://sochi.camera:8081/cam_242/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1170м. Роза Плато. Вид на Роза Стадион.
+https://sochi.camera:8081/cam_243/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1350м. Отметка «Беседка».
+https://sochi.camera:8081/cam_246/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж пансионата Шексна
+https://sochi.camera:8081/cam_247/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пансионат «Шексна»  верхняя территория
+https://sochi.camera:8081/cam_249/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Транспортная  поворот на «Олимп»
+https://sochi.camera:8081/cam_250/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - перекрёсток Курортного проспекта и улицы Пушкина
+https://sochi.camera:8081/cam_253/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - вагончики в Дендрарии
+https://sochi.camera:8081/cam_254/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - улица Навагинская
+https://sochi.camera:8081/cam_257/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Россия-1 Сочи ((●))
+https://sochi.camera:8081/cam_255/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  восточный сектор  высота +900 м  трасса 12A
+https://sochi.camera:8081/cam_261/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2320м. Роза Пик.
+https://sochi.camera:8081/cam_263/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 560м. «Роза Долина»  набережная.
+https://sochi.camera:8081/cam_264/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1128м. «Горная Олимпийская Деревня».
+https://sochi.camera:8081/cam_265/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 940м. Роза Стадион.
+https://sochi.camera:8081/cam_266/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - перекрёсток ул. им. Горького и ул. Роз
+https://sochi.camera:8081/cam_274/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - ул. Горького  привокзальная площадь
+https://sochi.camera:8081/cam_275/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - ул. Горького в сторону Ареды
+https://sochi.camera:8081/cam_276/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - посёлок Лоо  трасса в сторону Сочи
+https://sochi.camera:8081/cam_277/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - посёлок Лоо  трасса в сторону Лазаревского
+https://sochi.camera:8081/cam_278/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2508м. Каменный столб.
+https://sochi.camera:8081/cam_279/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Дендрарий  верхний парк
+https://sochi.camera:8081/cam_284/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Вардане  ул. Львовская в сторону Лоо
+https://sochi.camera:8081/cam_285/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Вардане  ул. Львовская в сторону Шексны
+https://sochi.camera:8081/cam_286/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сочи-Плаза 1
+https://sochi.camera:8081/cam_289/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сочи-Плаза 2
+https://sochi.camera:8081/cam_290/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сочи-Плаза 3
+https://sochi.camera:8081/cam_291/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сочи-Плаза 4
+https://sochi.camera:8081/cam_292/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Парк Ривьера 2
+https://sochi.camera:8081/cam_295/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". "Поляна 1389 Отель и Спа". Терраса. +1389
+https://sochi.camera:8081/cam_297/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". "Гранд Отель Поляна"  корпус В. Гриль-бар "BarBQ". +540
+https://sochi.camera:8081/cam_298/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". "Гранд Отель Поляна". Открытый бассейн 50м. +540
+https://sochi.camera:8081/cam_300/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Развлекательный центр «Галактика». Аквапарк. +550
+https://sochi.camera:8081/cam_301/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Парк рядом с РЦ "Галактика"
+https://sochi.camera:8081/cam_302/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Весна
+https://sochi.camera:8081/cam_303/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пластунская/Макаренко
+https://sochi.camera:8081/cam_176/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - вид ЖК АрдХаус 1
+https://sochi.camera:8081/cam_305/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Поезда (звук)
+https://sochi.camera:8081/cam_309/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Малый Ахун
+https://sochi.camera:8081/cam_310/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Транспортная / Яна Фабрициуса
+https://sochi.camera:8081/cam_311/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Озеро на территории ГК "Поляна 1389 Отель и Спа". +1389
+https://sochi.camera:8081/cam_317/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Горный приют Пихтовый. Детская горнолыжная школа "Морозко". +1660
+https://sochi.camera:8081/cam_318/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Донская/Пасечная
+https://sochi.camera:8081/cam_32/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж «Приморская»  восток
+https://sochi.camera:8081/cam_326/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж «Приморская»
+https://sochi.camera:8081/cam_327/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Пляж «Приморская»  запад
+https://sochi.camera:8081/cam_328/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - МореМолл ● HD PTZ
+https://sochi.camera:8081/cam_28/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - перекресток Курортный/Пушкина
+https://sochi.camera:8081/cam_24/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Россия-24 ((●))
+https://sochi.camera:8081/cam_256/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Альпика"). "Юность" +1500
+https://sochi.camera:8081/cam_335/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Альпика"). "Приют ветров". +2256
+https://sochi.camera:8081/cam_336/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1472м. Канатная дорога Эдельвейс.
+https://sochi.camera:8081/cam_337/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Лаура"). Оленья ферма. +1470
+https://sochi.camera:8081/cam_338/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 960  хаски-центр и тюбинг
+https://sochi.camera:8081/cam_339/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  восточный сектор  высота +900 м
+https://sochi.camera:8081/cam_340/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 960  зона выката трассы 2F
+https://sochi.camera:8081/cam_341/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром" (склон "Альпика"). "Приют ветров". +2256
+https://sochi.camera:8081/cam_346/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Московская
+https://sochi.camera:8081/cam_347/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Московская/Конституции HD
+https://sochi.camera:8081/cam_348/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. "Горная Олимпийская деревня". Вид на подъёмник Заповедный лес.
+https://sochi.camera:8081/cam_349/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. Горная Олимпийская деревня. Роза Springs.
+https://sochi.camera:8081/cam_351/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. Горная Олимпийская деревня. Роза КроссФит: Уличная площадка
+https://sochi.camera:8081/cam_352/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. "Горная Олимпийская деревня". Трасса Шале
+https://sochi.camera:8081/cam_353/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Чебуречка™
+https://sochi.camera:8081/cam_358/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Sochi Live
+https://sochi.camera:8081/cam_359/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Батумское шоссе  поворот на ул.Туманяна
+https://sochi.camera:8081/cam_363/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Отель «Сон у моря»  район Мамайка. Звук!
+https://sochi.camera:8081/cam_368/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Отель «Сон у моря»  район Мамайка. Звук!
+https://sochi.camera:8081/cam_369/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Скайпарк  панорама
+https://sochi.camera:8081/cam_370/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Скайпарк  верёвочный парк
+https://sochi.camera:8081/cam_371/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Скайпарк  мост
+https://sochi.camera:8081/cam_372/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Мамайский перевал  поворот на Сергей-поле
+https://sochi.camera:8081/cam_375/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Батумское шоссе  улицы Прозрачная и Славы
+https://sochi.camera:8081/cam_377/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Ильич™
+https://sochi.camera:8081/cam_378/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Ривьерский мост
+https://sochi.camera:8081/cam_379/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1100м. Горная Олимпийская деревня. Универсальное игровое поле.
+https://sochi.camera:8081/cam_388/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Транспортная  поворот на авторынок
+https://sochi.camera:8081/cam_390/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гепард
+https://sochi.camera:8081/cam_392/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Тигры
+https://sochi.camera:8081/cam_393/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сервалы
+https://sochi.camera:8081/cam_394/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Каракалы
+https://sochi.camera:8081/cam_395/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сервалы 2
+https://sochi.camera:8081/cam_396/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Бараны и Овцы
+https://sochi.camera:8081/cam_397/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Верблюд и Ламы
+https://sochi.camera:8081/cam_398/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Белый тигр Барон
+https://sochi.camera:8081/cam_399_sd/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Верветки
+https://sochi.camera:8081/cam_400/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Белый Кенгуру
+https://sochi.camera:8081/cam_401/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Зебры
+https://sochi.camera:8081/cam_402/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Зебры
+https://sochi.camera:8081/cam_403/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Альпаки и козы
+https://sochi.camera:8081/cam_404_sd/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Олень
+https://sochi.camera:8081/cam_405/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 560м. Роза Холл.
+https://sochi.camera:8081/cam_406/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 940м. Роза Стадион.
+https://sochi.camera:8081/cam_407/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1660м.
+https://sochi.camera:8081/cam_408/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 940м. Роза Стадион.
+https://sochi.camera:8081/cam_410/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1350м. Верхняя станция подъёмника "Волчья скала"
+https://sochi.camera:8081/cam_411/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2320м. Роза Пик
+https://sochi.camera:8081/cam_412/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2120м. Канатная дорога Крокус.
+https://sochi.camera:8081/cam_413/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2310м. Канатная дорога «Эдельвейс».
+https://sochi.camera:8081/cam_414/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2220м. Канатная дорога «Тундра».
+https://sochi.camera:8081/cam_415/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Клинический санаторий Металлург
+https://sochi.camera:8081/cam_416/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1350м. Канатная дорога «Квартет».
+https://sochi.camera:8081/cam_417/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1275м . Канатная дорога «Дафна».
+https://sochi.camera:8081/cam_418/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1000м. Площадка Rosa OCR.
+https://sochi.camera:8081/cam_419/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром"  Площадь Псехако. Парк "Зеленая Планета"  Сцена. +1450.
+https://sochi.camera:8081/cam_420/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром"  Площадь Псехако. Парк "Зеленая Планета"  кафе «Жарим&Парим». +1450.
+https://sochi.camera:8081/cam_423/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром". Площадь Псехако. Парк "Зеленая Планета". Панорама. +1389
+https://sochi.camera:8081/cam_424/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1600м. Канатная дорога «Стрела»
+https://sochi.camera:8081/cam_425/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1472м. Канатная дорога «Эдельвейс»
+https://sochi.camera:8081/cam_427/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1350м. Отметка «Беседка».
+https://sochi.camera:8081/cam_245/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2200м. Канатная дорога «Эдельвейс».
+https://sochi.camera:8081/cam_428/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 1600м. Канатная дорога «Сказка»
+https://sochi.camera:8081/cam_430/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 540   Скейт-парк
+https://sochi.camera:8081/cam_432/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная поляна  Поляна 540  Парк Времена года
+https://sochi.camera:8081/cam_433/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  восточный сектор  высота +1370 м  трасса 13B
+https://sochi.camera:8081/cam_262/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  высота +2375 м
+https://sochi.camera:8081/cam_435/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Канатная дорога "Черная пирамида"  высота +2375 м
+https://sochi.camera:8081/cam_436/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Apreski  Поляна 960
+https://sochi.camera:8081/cam_437/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Вид на море.
+https://sochi.camera:8081/cam_439/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Вход на пляж.
+https://sochi.camera:8081/cam_440/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Вид на пляж.
+https://sochi.camera:8081/cam_441/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Футбольная площадка.
+https://sochi.camera:8081/cam_442/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Вход в корпус.
+https://sochi.camera:8081/cam_443/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Детская площадка.
+https://sochi.camera:8081/cam_444/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Знание". Открый бассейн.
+https://sochi.camera:8081/cam_445/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Санаторий "Крепость". Кисловодск.
+https://sochi.camera:8081/cam_448/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Горный курорт Роза Хутор. 2100м. Панорама цирка Роза Хутор.
+https://sochi.camera:8081/cam_449/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курорт Красная Поляна  Поляна 960  Учебный склон для детей
+https://sochi.camera:8081/cam_450/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Красный мост. Здание конституционного суда РА Абхазия
+https://sochi.camera:8081/cam_451/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекресток дорог ведущих в г. Очамчира и г. Ткуарчал
+https://sochi.camera:8081/cam_452/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Город Ткуарчал. Место  где будет строиться храм
+https://sochi.camera:8081/cam_453/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Краснодарское кольцо
+https://sochi.camera:8081/cam_11/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Перекресток улиц Пластунская и Макаренко
+https://sochi.camera:8081/cam_456/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г.Cухум Теннисные корты
+https://sochi.camera:8081/cam_457/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г.Сухум Футбольная площадка
+https://sochi.camera:8081/cam_458/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сухум  республиканский стадион
+https://sochi.camera:8081/cam_459/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сухум  теннисные корты
+https://sochi.camera:8081/cam_461/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сухум  вокзал платформа
+https://sochi.camera:8081/cam_462/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сухум  вокзал и площадь
+https://sochi.camera:8081/cam_463/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сухум  баскетбольная площадка
+https://sochi.camera:8081/cam_464/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Набережная  Сухум. Площадь им. Багапш
+https://sochi.camera:8081/cam_465/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г. Очамчира
+https://sochi.camera:8081/cam_467/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гал центр
+https://sochi.camera:8081/cam_468/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Сухум  вышка РТПЦ
+https://sochi.camera:8081/cam_469/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Всесезонный курорт "Газпром"  Площадь Псехако. Парк "Ледниковый период". +1450
+https://sochi.camera:8081/cam_470/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г. Ткуарчал  дом культуры
+https://sochi.camera:8081/cam_471/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Адлер  площадь ЖД вокзала
+https://sochi.camera:8081/cam_472/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Черный ягуар Катрин
+https://sochi.camera:8081/cam_157/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Псоу  пешеходный переход
+https://sochi.camera:8081/cam_473/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Курортный проспект/Черноморская
+https://sochi.camera:8081/cam_476/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Кубанское кольцо
+https://sochi.camera:8081/cam_477/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Улица Несебрская в районе Гранд-Марины
+https://sochi.camera:8081/cam_478/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Виноградная
+https://sochi.camera:8081/cam_479/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Абхазия  «КПП Ингур»
+https://sochi.camera:8081/cam_483/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г.Гал Перепадная  водохранилище
+https://sochi.camera:8081/cam_484/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Гималайский медведь
+https://sochi.camera:8081/cam_486/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - Еноты
+https://sochi.camera:8081/cam_487/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г. Сухум Площадь СовМин
+https://sochi.camera:8081/cam_489/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г. Сухум Парк Славы
+https://sochi.camera:8081/cam_490/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Russia",Sochi - г.Гудаута
+https://sochi.camera:8081/cam_491/tracks-v1/mono.m3u8
