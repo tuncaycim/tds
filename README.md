@@ -1,0 +1,2 @@
+# tds
+Kişisel Şeyler Deniyorum!
