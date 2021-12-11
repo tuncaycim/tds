@@ -575,7 +575,7 @@ https://hls.pmchd.live/hls/stream.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="44" group="MÜZİK MODA", MCM TOP
 http://live-1.otcnet.ru:80/mcm/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="http://www.diario26.com/images/musictopposter.png", MUSIC TOP TV
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/eoimmmm.png", MUSIC TOP TV
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://1.bp.blogspot.com/-7GN7b9ptOgE/YU8BU1tZ-kI/AAAAAAAAUcY/mHuvs2WCa3s1UTgvbIkNlDFOM0gaTgFJACLcBGAsYHQ/s90/MIXM.png", MIXM TV HD
 http://89.179.247.144/mixm.m3u8
