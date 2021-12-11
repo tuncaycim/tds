@@ -299,7 +299,7 @@ http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="3092" group="BELGESEL", TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutvtrtbelgesel2/live.m3u8
-#EXTINF:0 type="stream" channelId="1092" group="BELGESELBELGESEL", TRT BELGESEL SD
+#EXTINF:0 type="stream" channelId="1092" group="BELGESEL", TRT BELGESEL SD
 http://istanbul.tvizlehd.com/live/trtbelgesel.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BELGESEL" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673", TGRT BELGESEL
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
