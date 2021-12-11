@@ -569,9 +569,9 @@ http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/5.m3u8
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/6.m3u8
 #EXTINF:0 type="stream" channelId="720" group="MÜZİK MODA", Mix 24-7 Vdj Retro
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
-#EXTINF:0 type="stream" channelId="720" group="MÜZİK MODA", PMC
+#EXTINF:0 type="stream" channelId="2787" group="MÜZİK MODA", PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:0 type="stream" channelId="720" group="MÜZİK MODA", PMC ROYALE
+#EXTINF:0 type="stream" channelId="2787" group="MÜZİK MODA", PMC ROYALE
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="44" group="MÜZİK MODA", MCM TOP
 http://live-1.otcnet.ru:80/mcm/index.m3u8
