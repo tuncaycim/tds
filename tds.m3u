@@ -145,9 +145,9 @@ https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/ma
 https://mn-nl.mncdn.com/blutvozelyapim2/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-6jANG1uKgMA/YU1nkoi4k9I/AAAAAAAAUcA/ftRQFqWdQSIKzOKm3CsdeZql38Ksp-hwCLcBGAsYHQ/s90/K1.png", BLU KiDS HD
 https://mn-nl.mncdn.com/blutvcocukdvr/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1", logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
+#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
 https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1", logo="https://i.hizliresim.com/5znxhww.png", TELE ON PLUS
+#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://i.hizliresim.com/5znxhww.png", TELE ON PLUS
 https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="[https://i.hizliresim.com/tfqlbmz.png", TEBER 1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
