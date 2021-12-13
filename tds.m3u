@@ -168,9 +168,11 @@ http://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklistw6471143
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon BİZİMKİLER
 http://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklistw1856567925.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon RECEP İVEDİK
+http://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklistw793354047.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitsWDJQyL-9EEEmimh1jl2CFRuihoK1b9flvXAfqc3VTKQ9IrjUNtRBlBDZFM3lGoNOFYzmiWePG4n5pPVQiL0vc3kp1oSwax80gmvnqlsCy9Fl26zeObeVmRi6jKGcwTqZ1HBr8R1uwNodsSd5NzT46g-6c6ZGIBiSt8uVzyvCIk9MpKwfiDTQ", BOX KEMAL SUNAL TV
 http://istanbul.tvizlehd.com/live//sabantv.m3u8
-http://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklistw793354047.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="IPTV-1" logo="http://4.bp.blogspot.com/-ItHKs_LVD04/UAUKrsz-uRI/AAAAAAAAD6M/oulnmPem_xc/s320/duguntv.gif", DÜĞÜN TV
+https://5864df9ceac85.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TÜRK
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmpI6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png", AKTİF TV
@@ -561,6 +563,8 @@ http://istanbul.tvizlehd.com/live/ekintv.m3u8
 http://live.arkumedia.com:1935/egeaturktv/egeaturktv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-0oRmd7Rxwkw/YA8xkSGzF6I/AAAAAAAAQlk/mLp479MmK-QY9kHfiQJenE5nQs2r20kewCLcBGAsYHQ/w190-h190/ege%2Bturk.jpg", EGE ATURK TV YEDEK
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="YEREL" logo="https://upload.wikimedia.org/wikipedia/tr/1/16/Egetv.jpg", EGE TV
+https://waw1.artiyerelmedya.net/egetv/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-8emnaXpVQUE/X2kPKhgLbRI/AAAAAAAAO2s/juNWz80OqkVTDzmIyYAiPz49tRB2UTRQCLcBGAsYHQ/s0/edeassa.jpg", EDESSA TV URFA
 http://185.87.252.44:4343/hls/edessatv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-AcbuywRvWTw/X7L7AJnEWRI/AAAAAAAAPwg/msiIZz4u-oSJa5d7ZcZ14H6FozV46ONQCLcBGAsYHQ/s0/erbaatv.PNG", ERBAA RTV
@@ -589,6 +593,8 @@ http://istanbul.tvizlehd.com/live/hrttv.m3u8
 https://yayin.hedeftv.com.tr:4443/hedeftv/smil:auto.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-M4IiFurbXs/X6rpCiGPbI/AAAAAAAAPqA/RGcvd8NQLVQsXAWqtQiJKqCwBgjMD06TwCLcBGAsYHQ/s0/hunat.PNG", HUNAT TV KAYSERi
 http://yerelmedya.tv:1935/hunattv/bant1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="YEREL" logo="https://1.bp.blogspot.com/-DbAm8-jVTBo/XlPBS2pvdUI/AAAAAAAAD_8/27b2j89_2aMePkREJ3puqWgbfA4qA8ExQCLcBGAsYHQ/s200/icel-tv-mersin.png", iÇEL TV
+https://broadcasttr.com:446/iceltv/bant1/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL", KANAL EGE
 https://vdo.digitalbox.xyz:3595/live/adminlive.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-0P8KiBJEoo8/X6rrlDxDghI/AAAAAAAAPrM/SaVl4nHqiZ4aArz0bMCsnOidFUKA2fIuQCLcBGAsYHQ/s320/KANAL%2B3.png" tvg-country="TR", KANAL 3
@@ -603,12 +609,16 @@ http://yerelmedya.tv:1935/kanal15/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/kanal23/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-iDuTwbcBRwI/X6rpDeZ-4zI/AAAAAAAAPqE/79VS0eT0RN0eWkmst9yj0aYbVMZjRJiewCLcBGAsYHQ/s0/kanal-26-logo.png", KANAL 26
 http://yerelmedya.tv:1935/kanal26/bant1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="YEREL" logo="https://upload.wikimedia.org/wikipedia/tr/5/5c/Kanal_32_yeni_logo.jpg", KANAL 32
+http://istanbul.tvizlehd.com/live/kanal32.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-1ciH1e9H5hw/XodxkBRXjI/AAAAAAAALTc/AH78mS4F84kfNSq0ogZCsa1io0Rh-FkQCK4BGAsYHg/s200/kanal%2B33.jpg", KANAL 33
 http://broadcasttr.com:1935/kanal33/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-ztVkmmDGNC4/Xod96I8nsTI/AAAAAAAALVk/jl-ofCRixGsRwxBzikhZVxrgg2-yeKJmwCLcBGAsYHQ/s200/KANAL34-LOGO-YEN%25C4%25B0-300x150.png", KANAL 34
 http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-W2nGO9K41w/YBlRxPeaYYI/AAAAAAAAQ2A/y0G1jR5q5NY07NhJXQvbiaY4hBWVXoaQCLcBGAsYHQ/s0/kanal38.png", KANAL 38
 https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="YEREL" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgpOn6TqN3P7tCxQMMd_D99yq7gYlvXnpz_XeYY7Jj-3bsAoTpKyEm4UZ3gTBMtygW6u7hvjuaQwetmaeqgkpZEp9IXgOuRntnXMkdeaYgtVTZlTkmkaHh9p3nh3WDxESqNY9IAxwjIlUyXRm2WemEOg58PNRnXye26qSY39qUtSkBGHjUeLwICc6o6tQ=w140-h43", KANAL 42
+http://istanbul.tvizlehd.com/live/kanal42.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-T6YpgvHyghw/YJQUkyRLiEI/AAAAAAAATb0/LnO3FPEccFgo7aVmTuNILnNN6x6K4YuLgCLcBGAsYHQ/s0/KANAL56TV.png", KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/Kanal56TV/Kanal56TV/chunklistw280402779.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-HpYX80ykuRY/X6W4haWPcI/AAAAAAAAPnQ/sakqISaQo-ELJxit175TzqZOurlQVyenACLcBGAsYHQ/s0/KANAL58.png", KANAL 58
@@ -753,6 +763,8 @@ https://tursab.ma.doracdn.com/tursab-liveabr/tursab/tursab-live/tursab1080p/chun
 http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="KAMU", YUSUFELi BELEDiYE TV
 http://85.10.207.237/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklistb1596000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="KAMU" logo="https://www.erzurum.bel.tr/img/CK/images/AZ%C4%B0Z%C4%B0YE.png", AZİZİYE BEL TV
+https://cdn1-aziziyebeltv.yayin.com.tr/aziziyebeltv/aziziyebeltv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="KAMU" logo="https://www.universitetv.com.tr/Content/img/beyazsonlogo.png", UNiVERSiTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="KIBRIS" logo="https://1.bp.blogspot.com/-3LmQwIZzpTE/X33rnqcGTCI/AAAAAAAAPMM/HXdzu7yMKIzLmlm9GqJcyKZctreYRpeQCLcBGAsYHQ/s0/ADATV.png", ADA TV KIBRIS
@@ -2334,7 +2346,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:0 type="stream" channelId="1845" name="HTV4" group="KARMA" tvg-country="HR", HRT 4 HD
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0 type="stream" channelId="1597" group="KARMA", RTL HRT
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="KARMA" logo="https://1.bp.blogspot.com/-jnNitnPUjvU/X7fsv0DqyVI/AAAAAAAAPxQ/0kXWrkVsPYSE0CXcbqAZuKJV7cspO31QCLcBGAsYHQ/s0/et.PNG", ET LiVE
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest81.m3u8
 #EXTINF:0 type="stream" channelId="1317" group="NEWS", FOX NEWS
