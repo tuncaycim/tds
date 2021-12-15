@@ -129,127 +129,129 @@ https://tv-trtavaz.medya.trt.com.tr/master720.m3u8
 http://185.129.1.242:80/trtavaz/mpegts
 #EXTINF:0 type="stream" channelId="1073" group="ULUSAL", TRT KURDi HD
 https://mn-nl.mncdn.com/blutvtrtkurdi2/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://i.hizliresim.com/5znxhww.png", SUPER TURK HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/5znxhww.png", SUPER TURK HD
 http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-QywTE5G4MZM/YSTOpvY88RI/AAAAAAAAUVw/mgxUzIV8wzcO6j--Hn9dOD2sQ48eeedmgCLcBGAsYHQ/s90/B5.png", BLU AKSiYON HD
-https://mn-nl.mncdn.com/blutvaksiyon/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-bNZk3bz1-s8/YSTOpZeZUkI/AAAAAAAAUVs/xL6TZKDL4gKe4oWmet5ICERBe4o1MACLcBGAsYHQ/s90/B4.png", BLU KOMEDi HD
-https://mn-nl.mncdn.com/blutvkomedi/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-w2oOQvrcVqE/YSTOokH8G1I/AAAAAAAAUVg/iAaD-3nSbgECDhmvkV6IaD5t5q5zmpmwCLcBGAsYHQ/s90/B1.png", BLU BELGESEL HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/5znxhww.pnghttps://i.hizliresim.com/5znxhww.png", SUPER TURK HD YEDEK
+http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/chunklist_w411684137_b1694720.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon TURK TV
+http://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w315505879.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YESILCAM KOMEDI
+http://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1541287259.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YESILCAM NOSTALJI TV
+http://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w993048745.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon KEMAL SUNAL TV
+http://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1091739803.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon SENER SEN TV
+http://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklist_w1524488266.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon AVRUPA YAKASI
+http://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklist_w647114382.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon BIZIMKILER TV
+http://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklist_w1856567925.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon RECEP IVEDIK TV
+http://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklist_w793354047.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-QywTE5G4MZM/YSTOpvY88RI/AAAAAAAAUVw/mgxUzIV8wzcO6j--Hn9dOD2sQ48eeedmgCLcBGAsYHQ/s90/B5.png", BLU AKSiYON HD
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-bNZk3bz1-s8/YSTOpZeZUkI/AAAAAAAAUVs/xL6T_ZKDL4gKe4o_Wmet5IC_ERBe4o1MACLcBGAsYHQ/s90/B4.png", BLU KOMEDi HD
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-w2oOQvrcVqE/YSTOokH8G1I/AAAAAAAAUVg/iAaD-3nSbgECDhmvkV6IaD_5t5q5zmpmwCLcBGAsYHQ/s90/B1.png", BLU BELGESEL HD
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-wJ-UO8AKFVs/YSTOoqifTcI/AAAAAAAAUVk/hsSEj6egvOgK5ZgNLw9euiN384l6bzESwCLcBGAsYHQ/s90/B2.png", BLU NOSTALJi HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-wJ-UO8AKFVs/YSTOoqifTcI/AAAAAAAAUVk/hsSEj6egvOgK5ZgNLw9euiN384l6bzESwCLcBGAsYHQ/s90/B2.png", BLU NOSTALJi HD
 https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-60Q9EWW5Z7g/YSTOojOmMwI/AAAAAAAAUVo/AkSyxLXQzc0oxHo1HarEPnFYVxb40MIwCLcBGAsYHQ/s90/B3.png", BLU OZEL YAPIM HD
-https://mn-nl.mncdn.com/blutvozelyapim2/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-6jANG1uKgMA/YU1nkoi4k9I/AAAAAAAAUcA/ftRQFqWdQSIKzOKm3CsdeZql38Ksp-hwCLcBGAsYHQ/s90/K1.png", BLU KiDS HD
-https://mn-nl.mncdn.com/blutvcocukdvr/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-60Q9EWW5Z7g/YSTOojOmMwI/AAAAAAAAUVo/A_kSyxLXQzc0oxHo1HarEPnFYVxb40MIwCLcBGAsYHQ/s90/B3.png", BLU OZEL YAPIM HD
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-6jANG1uKgMA/YU1nkoi4k9I/AAAAAAAAUcA/ftRQFqWdQSIKzOKm3CsdeZql38Ksp_-hwCLcBGAsYHQ/s90/K1.png", BLU KiDS HD
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8 
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
 https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://i.hizliresim.com/tfqlbmz.png", TELE ON PLUS
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 3
 https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 1
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="1871" group="IPTV-1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 6
+#EXTINF:0 type="stream" channelId="1871" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 6
 https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YESILCAM KOMEDI
-http://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklistw1541287259.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon TÜRK
-http://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklistw315505879.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YEŞİLÇAM
-http://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklistw993048745.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon KEMAL SUNAL
-http://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklistw1091739803.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon ŞENER ŞEN
-http://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklistw1524488266.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon AVRUPA YAKASI
-http://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklistw647114382.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon BİZİMKİLER
-http://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklistw1856567925.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon RECEP İVEDİK
-http://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklistw793354047.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitsWDJQyL-9EEEmimh1jl2CFRuihoK1b9flvXAfqc3VTKQ9IrjUNtRBlBDZFM3lGoNOFYzmiWePG4n5pPVQiL0vc3kp1oSwax80gmvnqlsCy9Fl26zeObeVmRi6jKGcwTqZ1HBr8R1uwNodsSd5NzT46g-6c6ZGIBiSt8uVzyvCIk9MpKwfiDTQ", BOX KEMAL SUNAL TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitsWDJQyL-9EEEmimh1jl2CFRuihoK1b9flvXAfqc3VTKQ9IrjUNtRBlBDZFM3lGoNOFYzmiWePG4n5pPVQiL0vc3kp1oSwax80gmvnqlsCy9Fl26zeObeVmRi6jKGcwTqZ1HBr8R1uwNodsSd5NzT46g-6c6ZGIBiSt8uVzyvCIk9MpKwfiDTQ", BOX KEMAL SUNAL TV
 http://istanbul.tvizlehd.com/live//sabantv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="IPTV-1" logo="http://4.bp.blogspot.com/-ItHKs_LVD04/UAUKrsz-uRI/AAAAAAAAD6M/oulnmPem_xc/s320/duguntv.gif", DÜĞÜN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="IPTV 1" logo="http://4.bp.blogspot.com/-ItHKs_LVD04/UAUKrsz-uRI/AAAAAAAAD6M/oulnmPem_xc/s320/duguntv.gif", DÜĞÜN TV
 https://5864df9ceac85.streamlock.net/televizyon-live/_definst_/mp4:DugunTv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TÜRK
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TÜRK
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmpI6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png", AKTİF TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmpI6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png", AKTİF TV
 http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjd0L-jFW9hmpneBF8yGC2VlnQwjjfUNOiie5HGe0UaN4lz4kPZRoApRaL2OYaXGXyH2fFpdJiOf22LYmTLU84-kNUI1u-IE0XBE3zMbH2z9zKn4ferIoBLGP3BSyg8BUX48OlcCSYg3WkpXfHAS2TR0btLEjaPOkjLIL33JmG3p-8D6uHKTbh-vg", ADANA MOViE TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjd0L-jFW9hmpneBF8yGC2VlnQwjjfUNOiie5HGe0UaN4lz4kPZRoApRaL2OYaXGXyH2fFpdJiOf22LYmTLU84-kNUI1u-IE0XBE3zMbH2z9zKn4ferIoBLGP3BSyg8BUX48OlcCSYg3WkpXfHAS2TR0btLEjaPOkjLIL33JmG3p-8D6uHKTbh-vg", ADANA MOViE TV
 http://adana01.ozelip.com:26258/adana/adana/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuaRK4pSaeVCcbUjgBpJ2AKt4UXHYmB1zWcAtQOZPuEDQ0iCbfcgTLA7uaw23-PwwH9IsLN94TzeU9bu1ktfUSicOwotNHQpr1HnoYoLbZLkLNZz0M0Ha1kTi4CPm251zzleM3ckeq4laj9vfPg42Uig8kW4aDwacx9A8DlXqx1ISYbcuHbyyU-0kQ", ANKA TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuaRK4pSaeVCcbUjgBpJ2AKt4UXHYmB1zWcAtQOZPuEDQ0iCbfcgTLA7uaw23-PwwH9IsLN94TzeU9bu1ktfUSicOwotNHQpr1HnoYoLbZLkLNZz0M0Ha1kTi4CPm251zzleM3ckeq4laj9vfPg42Uig8kW4aDwacx9A8DlXqx1ISYbcuHbyyU-0kQ", ANKA TV
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEglzoUhhrpFEeA3-0UGohA4VVGv4JJBwdcNvsv1ybfrGbkIpzMzPjcPmIAi23YMQMcmkbmIZQ72j8GKPq5ZxLrYtJ2-TpYGrl3XFVlYsD60j3xI4riYKqUAhLRZAdRU0vVtilPr4ueciZZnfRaMlZDAZmGaF4IM6-z03-wRdMAFsE7qvvKRp6-qnVA=w177-h47", BASKAN TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEglzoUhhrpFEeA3-0UGohA4VVGv4JJBwdcNvsv1ybfrGbkIpzMzPjcPmIAi23YMQMcmkbmIZQ72j8GKPq5ZxLrYtJ2-TpYGrl3XFVlYsD60j3xI4riYKqUAhLRZAdRU0vVtilPr4ueciZZnfRaMlZDAZmGaF4IM6-z03-wRdMAFsE7qvvKRp6-qnVA=w177-h47", BASKAN TV
 http://145.239.37.125:20458/baskantv/baskantv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://cine5tv.com.tr/wp-content/uploads/2021/01/cropped-68858337_486935001869660_3792043784032747520_n.png", CINE5
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://cine5tv.com.tr/wp-content/uploads/2021/01/cropped-68858337_486935001869660_3792043784032747520_n.png", CINE5
 https://cdn1-cine5tv.yayin.com.tr/cine5tv/amlst:cine5tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwwvL7O9d36pvJDHnI4CRrvMGWowlSNsXc2zHgxqyaP22fUhmCUUei51Jx55GBi0zmZy4I3ZRs0oVKFBBFSGzkjKxOi2P7FewGCNynYDhxRjQz8sRoFptbDMczcrxPwPMiJidnsO-18KkOuD0HwYvWTr2F3KfcHDlBNtWo8KZsGmsGfAyCwaKdRT6A=w102-h97", DURAK TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwwvL7O9d36pvJDHnI4CRrvMGWowlSNsXc2zHgxqyaP22fUhmCUUei51Jx55GBi0zmZy4I3ZRs0oVKFBBFSGzkjKxOi2P7FewGCNynYDhxRjQz8sRoFptbDMczcrxPwPMiJidnsO-18KkOuD0HwYvWTr2F3KfcHDlBNtWo8KZsGmsGfAyCwaKdRT6A=w102-h97", DURAK TV
 http://145.239.37.125:20458/duraktv/duraktv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgv5llNN2cMs6f-O2wTFzriH4XNSer4fQA9UDtt1ae-9r7g5bd1u823mMyJeEusDlasLzh2ylcgxOd-SBl6kFEpPXIH-GBymh5fCmjrTVlFkr0lihyMKtorYAubtI-JEaQH2NtMsb1JzR8EHprn3MJ32l13Vwbjji8O5h4HSzNTu2oGgN8UfJm9-A=w71-h71", DiZi TV TDC HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgv5llNN2cMs6f-O2wTFzriH4XNSer4fQA9UDtt1ae-9r7g5bd1u823mMyJeEusDlasLzh2ylcgxOd-SBl6kFEpPXIH-GBymh5fCmjrTVlFkr0lihyMKtorYAubtI-JEaQH2NtMsb1JzR8EHprn3MJ32l13Vwbjji8O5h4HSzNTu2oGgN8UfJm9-A=w71-h71", DiZi TV TDC HD
 http://93.157.62.180/TDC/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-uOVF0Gfzw8c/YHIRflQFgyI/AAAAAAAASiY/UgAzFTPMixwATMLP20JXQ0eZENCVSObvQCLcBGAsYHQ/s337/dramad.png", D DRAMA HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-uOVF0Gfzw8c/YHIRflQFgyI/AAAAAAAASiY/UgAzFTPMixwATMLP20JXQ0eZENCVSObvQCLcBGAsYHQ/s337/dramad.png", D DRAMA HD
 http://93.157.62.180/KanalDDrama/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjsE8bRJKpf1VkT6tw6AaWgsUXHnBmiVMTtSWnBeHyuCR2UDn-xq0Nm1u8JrCGpDkG073Ku5snRnVc6dryhWgdiqD1R1dQUyw7hQBVF2CJdwmsZpwpi0laTmlQWdqexBl2Gus9rrIPZGFGnlIchdMvcj7tzxXP9ckXMiUtKKSWigSAboDGJ8q4EJcw=w110-h58", GOPSEN TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjsE8bRJKpf1VkT6tw6AaWgsUXHnBmiVMTtSWnBeHyuCR2UDn-xq0Nm1u8JrCGpDkG073Ku5snRnVc6dryhWgdiqD1R1dQUyw7hQBVF2CJdwmsZpwpi0laTmlQWdqexBl2Gus9rrIPZGFGnlIchdMvcj7tzxXP9ckXMiUtKKSWigSAboDGJ8q4EJcw=w110-h58", GOPSEN TV
 http://145.239.37.125:20458/gopsentv/gopsentv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGokNbp3GKVzFDQMKeXpwbTNR-5RUcW29xcK0xlF-TQZKdBrVSVSj3xvQ20txCzdDqEQ4rGo7aGQX7DNyCab4fLx9xt5C3Ce0RbUzUnTzON8pjH1hkx1B0ZQZVYmvQ-KncY4mo9vFdmvEFxTWbSj30qSYtuzXdLyc6t4FaseaKxXAzNW6b26P76LAUag=w137-h52", iSViCRE TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGokNbp3GKVzFDQMKeXpwbTNR-5RUcW29xcK0xlF-TQZKdBrVSVSj3xvQ20txCzdDqEQ4rGo7aGQX7DNyCab4fLx9xt5C3Ce0RbUzUnTzON8pjH1hkx1B0ZQZVYmvQ-KncY4mo9vFdmvEFxTWbSj30qSYtuzXdLyc6t4FaseaKxXAzNW6b26P76LAUag=w137-h52", iSViCRE TV HD
 http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-sysOAwP1qyc/X2jF-YU8iuI/AAAAAAAAO1E/xEtBiocvA0g97px8TxB0-OPMywVwp09wCLcBGAsYHQ/s320/isttv.png", iSTANBUL TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-sysOAwP1qyc/X2jF-YU8iuI/AAAAAAAAO1E/xEtBiocvA0g97px8TxB0-OPMywVwp09wCLcBGAsYHQ/s320/isttv.png", iSTANBUL TV HD
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-b3mvojhDEc4/YG9RQFDMlBI/AAAAAAAASfc/nJNsF9CIuXclZ5aRneCRcJhTZ6Kh1H5XgCLcBGAsYHQ/s250/NPgSgYm.png", KANAL iSTANBUL HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-b3mvojhDEc4/YG9RQFDMlBI/AAAAAAAASfc/nJNsF9CIuXclZ5aRneCRcJhTZ6Kh1H5XgCLcBGAsYHQ/s250/NPgSgYm.png", KANAL iSTANBUL HD
 http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklistw1612362189b1596000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", KANAL 19
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", KANAL 19
 http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi0gOPAtzZG3kNgfYJcTJaCwKxacaz8aNNDYUa26eaWyWmCY0JTjWyIk1LRKq6XEg9Zb1aMxvno2Ytok-Ve-bzGOSAugSMmFlyS0pvfDAbowempdyL8oKt22DiZm4Gxk8me4CIF1hzIkCskBhqkKviu3YzfXRJuGHBQjHjo0wOK9v4FP1SZFf94A=w156-h39", MiSKET TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi0gOPAtzZG3kNgfYJcTJaCwKxacaz8aNNDYUa26eaWyWmCY0JTjWyIk1LRKq6XEg9Zb1aMxvno2Ytok-Ve-bzGOSAugSMmFlyS0pvfDAbowempdyL8oKt22DiZm4Gxk8me4CIF1hzIkCskBhqkKviu3YzfXRJuGHBQjHjo0wOK9v4FP1SZFf94A=w156-h39", MiSKET TV HD
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://i.hizliresim.com/tfqlbmz.png", ÖZBURUN TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", ÖZBURUN TV
 https://104.248.132.175/6820ecfe-70c9-46e5-adb4-26e72809c302/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXpML9gmRsiacLHTt-XWoyAkl7avdt-mfwJ1Nq0Ape5AHcSUFlxQawfvKDsTerkF5QdvK1H3jf8Hqbzkpdw14wZbRxjc-OlEij2PVUf9ugowX8tB9LnNGIdV4tMmspy3h7ZnxZge-VEajdODkokTP22KbfbtVkNKu609jVoouKEf2p-OnkCdmgjdZw", SURMELi TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXpML9gmRsiacLHTt-XWoyAkl7avdt-mfwJ1Nq0Ape5AHcSUFlxQawfvKDsTerkF5QdvK1H3jf8Hqbzkpdw14wZbRxjc-OlEij2PVUf9ugowX8tB9LnNGIdV4tMmspy3h7ZnxZge-VEajdODkokTP22KbfbtVkNKu609jVoouKEf2p-OnkCdmgjdZw", SURMELi TV HD
 http://hd9994.4kradyotv.com:26606/srmltv/srmltv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-21vaWs-lNPM/YFQ-Q09NRMI/AAAAAAAAR88/YVvsOMuOnZ8EIb1COImZnIiYu4CrOBiLQCLcBGAsYHQ/w99-h46/TURKUVAZTV.png", TURKUVAZ TV WESTERN
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-21vaWs-lNPM/YFQ-Q09NRMI/AAAAAAAAR88/YVvsOMuOnZ8EIb1COImZnIiYu4CrOBiLQCLcBGAsYHQ/w99-h46/TURKUVAZTV.png", TURKUVAZ TV WESTERN
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5243.m3u8
-#EXTINF:0 type="stream" channelId="4005" group="IPTV-1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", TV EM
+#EXTINF:0 type="stream" channelId="4005" group="IPTV 1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-XtoWWe0X3MM/YFDGGQxIDbI/AAAAAAAAR28/p1TmC-7bZbct3AmCzQ8A74WCiJE-Tap0QCLcBGAsYHQ/w58-h58/T%25C4%25B0V%25C4%25B0TURK.jpg", TiViTURK HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-XtoWWe0X3MM/YFDGGQxIDbI/AAAAAAAAR28/p1TmC-7bZbct3AmCzQ8A74WCiJE-Tap0QCLcBGAsYHQ/w58-h58/T%25C4%25B0V%25C4%25B0TURK.jpg", TiViTURK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-1ip8KsHoXBo/YFO7wStOdII/AAAAAAAAR7U/5qPk-uS-ZoUuV6G4dNCnjTV0t328HlfjACLcBGAsYHQ/w116-h81/tvavrupa.png", TV AVRUPA
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-1ip8KsHoXBo/YFO7wStOdII/AAAAAAAAR7U/5qPk-uS-ZoUuV6G4dNCnjTV0t328HlfjACLcBGAsYHQ/w116-h81/tvavrupa.png", TV AVRUPA
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-bx0rRUWn2yY/XrQoySUd1CI/AAAAAAAAM1U/WKmSOXvlDEc3MBtkGP8WGubsORsr4Dj1ACLcBGAsYHQ/s200/viyanatvlogo.png", ViYANA TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-bx0rRUWn2yY/XrQoySUd1CI/AAAAAAAAM1U/WKmSOXvlDEc3MBtkGP8WGubsORsr4Dj1ACLcBGAsYHQ/s200/viyanatvlogo.png", ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEje3AN9pZP2a1WPsrerZ-P3o5c9uVSfVTXvfnIAOrQRnoOk0Bhxn-Jo89Qqx2zUiCPAHv7ezlHta6eGHWKEyuP2xHPX1dUR0mz5T-Vv1mYIACdSTVoi7e4Muk9P3O7ZkYDls5uuDEnSJqRi1zcZLcu5N7UB7rskYnzcf7fKyfc13IJm74aTZJYjacuqQ", WAYKING TV SPORT
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEje3AN9pZP2a1WPsrerZ-P3o5c9uVSfVTXvfnIAOrQRnoOk0Bhxn-Jo89Qqx2zUiCPAHv7ezlHta6eGHWKEyuP2xHPX1dUR0mz5T-Vv1mYIACdSTVoi7e4Muk9P3O7ZkYDls5uuDEnSJqRi1zcZLcu5N7UB7rskYnzcf7fKyfc13IJm74aTZJYjacuqQ", WAYKING TV SPORT
 http://51.210.199.10/hls/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-G4QNxQOOqU/XzPAmjG0G2I/AAAAAAAAOSY/mQfSMOMGmGMACJsxJXfzk0fQ1Ep8SR3SACLcBGAsYHQ/s0/T%25C4%25B0MURMEDYA.PNG", TIMUR MEDYA TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-G4QNxQOOqU/XzPAmjG0G2I/AAAAAAAAOSY/mQfSMOMGmGMACJsxJXfzk0fQ1Ep8SR3SACLcBGAsYHQ/s0/T%25C4%25B0MURMEDYA.PNG", TIMUR MEDYA TV
 http://live-server-1.splitstream.io/55b2f084-70ca-4e03-ab38-8f0acd11aaaf/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl05fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA TV HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl05fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA TV HD
 http://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl05fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA PREMIUM TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl05fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA PREMIUM TV
 http://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-sYChyuVHnaY/Xp7gPLZqiKI/AAAAAAAAMZM/kj45kk1MmZIac4EtHFpt0fFuL12U-KYkgCLcBGAsYHQ/s200/BRUKSELTURK.jpg", BRUKSEL TURK TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-sYChyuVHnaY/Xp7gPLZqiKI/AAAAAAAAMZM/kj45kk1MmZIac4EtHFpt0fFuL12U-KYkgCLcBGAsYHQ/s200/BRUKSELTURK.jpg", BRUKSEL TURK TV
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-jgL5sBHvjIA/YDUDk0Tn0tI/AAAAAAAARRc/SCCZ0qUmGMCKRbRv2CCJQmEXAC3-oCgCLcBGAsYHQ/s169/cri-turk-logo.png", CRI TURK DiZi HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-jgL5sBHvjIA/YDUDk0Tn0tI/AAAAAAAARRc/SCCZ0qUmGMCKRbRv2CCJQmEXAC3-oCgCLcBGAsYHQ/s169/cri-turk-logo.png", CRI TURK DiZi HD
 https://www.guventechnology.com:19360/CriturkTVDizi/CriturkTVDizi.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-jgL5sBHvjIA/YDUDk0Tn0tI/AAAAAAAARRc/SCCZ0qUmGMCKRbRv2CCJQmEXAC3-oCgCLcBGAsYHQ/s169/cri-turk-logo.png", CRI TURK BELGESEL HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-jgL5sBHvjIA/YDUDk0Tn0tI/AAAAAAAARRc/SCCZ0qUmGMCKRbRv2CCJQmEXAC3-oCgCLcBGAsYHQ/s169/cri-turk-logo.png", CRI TURK BELGESEL HD
 https://www.guventechnology.com:19360/CriturkTVBelgesel/CriturkTVBelgesel.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1", CIHAN HD TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1", CIHAN HD TV
 http://cdn.liveshell.net:1935/live/cihann/chunklistw622134780.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-plxecjHUihE/YISKwYUC-sI/AAAAAAAAS9U/6UVk7IqBfuk2PXgDsAc4cdUQWtxboXcCgCLcBGAsYHQ/s0/euro90.png", EURO 90 CHANNEL
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-plxecjHUihE/YISKwYUC-sI/AAAAAAAAS9U/6UVk7IqBfuk2PXgDsAc4cdUQWtxboXcCgCLcBGAsYHQ/s0/euro90.png", EURO 90 CHANNEL
 https://ssl4.radyotvonline.com/e90tv/e90tvlive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1", FTV INT
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1", FTV INT
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master1660.m3u8
-#EXTINF:0 type="stream" channelId="721" group="IPTV-1", NASA TV
+#EXTINF:0 type="stream" channelId="721" group="IPTV 1", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master2000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-DHWeK3lug2A/X24V6ozSbFI/AAAAAAAAO8Q/8C9RB1SApOEXA5iVlfPCP6Kf0778emZvQCLcBGAsYHQ/s0/ntr.png", NATURAL TV TURK
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-DHWeK3lug2A/X24V6ozSbFI/AAAAAAAAO8Q/8C9RB1SApOEXA5iVlfPCP6Kf0778emZvQCLcBGAsYHQ/s0/ntr.png", NATURAL TV TURK
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-yKqshK41otk/YCV1ZDtiFsI/AAAAAAAAQ90/WG523o4CQCUczR8PpLfNPPcGJHeQUCcNACLcBGAsYHQ/s0/sat7logo-mid.png", SAT 7 TURK
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-yKqshK41otk/YCV1ZDtiFsI/AAAAAAAAQ90/WG523o4CQCUczR8PpLfNPPcGJHeQUCcNACLcBGAsYHQ/s0/sat7logo-mid.png", SAT 7 TURK
 http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk720p/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-yKqshK41otk/YCV1ZDtiFsI/AAAAAAAAQ90/WG523o4CQCUczR8PpLfNPPcGJHeQUCcNACLcBGAsYHQ/s0/sat7logo-mid.png", SAT 7 TURK HD
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-yKqshK41otk/YCV1ZDtiFsI/AAAAAAAAQ90/WG523o4CQCUczR8PpLfNPPcGJHeQUCcNACLcBGAsYHQ/s0/sat7logo-mid.png", SAT 7 TURK HD
 https://waw1.artiyerelmedya.net/sat7turk/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1" logo="https://1.bp.blogspot.com/-0-8jrDE36dE/YJUvlErVYXI/AAAAAAAATcA/3AcSNDwB6y8ey41kO5gUHXpYDZ68pnaJACLcBGAsYHQ/s320/adige.png", TV ADiGE
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-0-8jrDE36dE/YJUvlErVYXI/AAAAAAAATcA/3AcSNDwB6y8ey41kO5gUHXpYDZ68pnaJACLcBGAsYHQ/s320/adige.png", TV ADiGE
 http://145.239.37.125:20458/tvadige/tvadige/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1", TURKMENELi TV
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1", TURKMENELi TV
 http://istanbul.tvizlehd.com/live/turkmenelitv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV-1", UYGUR TV NEWS
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1", UYGUR TV NEWS
 https://592f1881b3d5f.streamlock.net:1443/santraltv742/santraltv742/chunklistw1049972440.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV-2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjnRe8DDx8GhxjslRbpS8zczOujVO9r5fH06pZHGKjU96CNS5XiKfZUsXD5dGMb8BkZiXmfoWKeyBjoNeGowlfpHLV80pz411xjrMrOBLuNqmBddQFSErt-qggvp7w4192OkJXWTKoZI0h7hTSI2PK6wzLn6q9EJsOGesgfNFPMAlfgDObM9j4MsXMdQ=w179-h71", ALMANYA TV
 http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
