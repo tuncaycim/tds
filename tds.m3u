@@ -691,9 +691,7 @@ https://cdn1-rizetv.yayin.com.tr/rizetv/ngrp:rizetv/chunklist.m3u8
 http://85.10.207.237/rizetv/rizetv720p/chunklistb3128000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL", RUHA TV URFA
 http://51.15.183.200:1935/ruha/ruha/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-Vt8MY5Pi8/YE9vyjv0yJI/AAAAAAAAR0Y/U0UEO73Cz4Uo200-bWTMcXYM6RatkX6QCLcBGAsYHQ/w118-h50/SANCAK.PNG", SANCAK TV iZMiR
-https://59cba4d34b678.streamlock.net/canlitv/sancaktvlive/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="YEREL", SANCAK TV HD YEDEK
+#EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-Vt8MY5Pi8/YE9vyjv0yJI/AAAAAAAAR0Y/U0UEO73Cz4Uo200-bWTMcXYM6RatkX6QCLcBGAsYHQ/w118-h50/SANCAK.PNG", SANCAK TV HD YEDEK
 https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="YEREL" logo="https://1.bp.blogspot.com/-SzNrdN3VZ-0/X5wyHzMLtQI/AAAAAAAAPcQ/H4SirGgL4y0R5OiC0t9tZGC28HTPlanwCLcBGAsYHQ/s0/SARIYERTV.png", SARIYER TV iST
 http://s01.vpis.io/sariyer/sariyer.m3u8

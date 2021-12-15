@@ -1,5 +1,5 @@
 ---
-title: "Hobi Televizyon IP Listesidir"
+Başlık: "Kişisel Televizyon Listesidir"
 ---
 
 Herkesin ulaşabileceği kanallar listelenir ...
