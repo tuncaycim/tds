@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.12" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
+#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.15" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
 https://www.youtube.com/watch?v=ydOcrOkwcnk
 #EXTINF:0 type="stream" channelId="1056" group="ULUSAL" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQNwACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master720.m3u8
@@ -915,12 +915,6 @@ https://tv-trtcocuk.live.trt.com.tr/master720.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="1059" group="ÇOCUK TV", TRT COCUK SD
 http://istanbul.tvizlehd.com/live/trtcocuk.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitRxFBHeLYPx0WiwYMOLHp1Ll9EcAi992HDrTQBdApQmPZFLSbzgLtxfADgsgXkgEs346BsTFTPEn7--6mVgdsi8JdSlrQE3H43Ij3P9x7FIISd1pEpXHjKM-Ggp6TvL951KWnj1pSspu8JgM0ZgL6oh0rj2KSlM5jRRos2rd1zmN-Y9zjZUW5odQ=w130-h39", DÜŞYERİ TV ÖĞRENCELER
-https://stream-08.dc3.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSxn0ucXvnMMQ2U6yBc0EnA)/dm/3/x75w60v/s/live-3.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitRxFBHeLYPx0WiwYMOLHp1Ll9EcAi992HDrTQBdApQmPZFLSbzgLtxfADgsgXkgEs346BsTFTPEn7--6mVgdsi8JdSlrQE3H43Ij3P9x7FIISd1pEpXHjKM-Ggp6TvL951KWnj1pSspu8JgM0ZgL6oh0rj2KSlM5jRRos2rd1zmN-Y9zjZUW5odQ=w130-h39", DÜŞYERİ TV PEPEE
-https://stream-04.dc3.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS59r24kvRXotGHCx9qlD2H8)/dm/3/x75w69b/s/live-3.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitRxFBHeLYPx0WiwYMOLHp1Ll9EcAi992HDrTQBdApQmPZFLSbzgLtxfADgsgXkgEs346BsTFTPEn7--6mVgdsi8JdSlrQE3H43Ij3P9x7FIISd1pEpXHjKM-Ggp6TvL951KWnj1pSspu8JgM0ZgL6oh0rj2KSlM5jRRos2rd1zmN-Y9zjZUW5odQ=w130-h39", DÜŞYERİ TV ŞARKILAR
-https://stream-09.dc3.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1lYJctuQWuQik3fnFx35I)/dm/3/x75w64x/s/live-3.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://1.bp.blogspot.com/-yqnB0mEL6E/X4Bv6pQyHzI/AAAAAAAAPP0/kLGyXfb2wgjLauyA6KUydNchjXfp0GtACLcBGAsYHQ/s0/ebailkokul.png", TRT EBA iLKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://1.bp.blogspot.com/-zwjIfMve2mQ/X4Bv6kgHPJI/AAAAAAAAPPw/XUi-HUVFkgIbCS4LmDRKSyubNUodCRu3wCLcBGAsYHQ/s0/ebaortakul.png", TRT EBA ORTAOKUL
