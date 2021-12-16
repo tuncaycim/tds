@@ -1121,6 +1121,12 @@ http://deejaytv-lh.akamaihd.net/i/DeejayTv1@129866/index600av-p.m3u8
 http://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", DANCE HITS OF THE 90'S
 http://140.238.127.147/streams/1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", BEST | Live Performances
+http://140.238.127.147/streams/3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", RDH90'S
+http://140.238.127.147/streams/4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", RUSIA POP BOX 90
+http://140.238.127.147/streams/6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklistw1467262774.m3u8
 #EXTINF:0 type="stream" channelId="1106" group="MÜZİK MODA", MTV BIGGEST POP HD
