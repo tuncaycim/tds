@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.15" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
+#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.16" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
 https://www.youtube.com/watch?v=ydOcrOkwcnk
 #EXTINF:0 type="stream" channelId="1056" group="ULUSAL" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQNwACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master720.m3u8
@@ -1119,6 +1119,8 @@ https://hls.247box.live/hls/stream.m3u8
 http://deejaytv-lh.akamaihd.net/i/DeejayTv1@129866/index600av-p.m3u8
 #EXTINF:0 type="stream" channelId="1915" group="MÜZİK MODA", EURO DANCE HD
 http://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", DANCE HITS OF THE 90'S
+http://140.238.127.147/streams/1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklistw1467262774.m3u8
 #EXTINF:0 type="stream" channelId="1106" group="MÜZİK MODA", MTV BIGGEST POP HD
