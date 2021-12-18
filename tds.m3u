@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.15" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
+#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.18" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
 https://www.youtube.com/watch?v=ydOcrOkwcnk
 #EXTINF:0 type="stream" channelId="1056" group="ULUSAL" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQNwACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master720.m3u8
@@ -133,8 +133,6 @@ https://mn-nl.mncdn.com/blutvtrtkurdi2/live.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/5znxhww.png", SUPER TURK HD
 http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/5znxhww.pnghttps://i.hizliresim.com/5znxhww.png", SUPER TURK HD YEDEK
-http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/chunklist_w411684137_b1694720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon TURK TV
 http://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w315505879.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YESILCAM KOMEDI
@@ -907,12 +905,8 @@ https://nilotv.ozelip.com:3665/multiweb/play.m3u8
 http://istanbul.tvizlehd.com/live/minikago.m3u8
 #EXTINF:0 type="stream" channelId="1097" group="ÇOCUK TV", MiNiKA COCUK
 http://istanbul.tvizlehd.com/live/minikacocuk.m3u8
-#EXTINF:0 type="stream" channelId="1059" group="ÇOCUK TV", TRT COCUK
-https://tv-trtcocuk.live.trt.com.tr/master720.m3u8
-#EXTINF:0 type="stream" channelId="1059" group="ÇOCUK TV", TRT COCUK FHD
+#EXTINF:0 type="stream" channelId="1059" group="ÇOCUK TV", TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" channelId="1059" group="ÇOCUK TV", TRT COCUK SD
-http://istanbul.tvizlehd.com/live/trtcocuk.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://1.bp.blogspot.com/-yqnB0mEL6E/X4Bv6pQyHzI/AAAAAAAAPP0/kLGyXfb2wgjLauyA6KUydNchjXfp0GtACLcBGAsYHQ/s0/ebailkokul.png", TRT EBA iLKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ÇOCUK TV" logo="https://1.bp.blogspot.com/-zwjIfMve2mQ/X4Bv6kgHPJI/AAAAAAAAPPw/XUi-HUVFkgIbCS4LmDRKSyubNUodCRu3wCLcBGAsYHQ/s0/ebaortakul.png", TRT EBA ORTAOKUL
@@ -953,8 +947,6 @@ http://istanbul.tvizlehd.com/live/tele1.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-ALgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD TR
 https://mn-nl.mncdn.com/blutvtv1002/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://1.bp.blogspot.com/-ALgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 SD TR
-http://istanbul.tvizlehd.com/live/tv100.m3u8
 #EXTINF:0 type="stream" channelId="1094" group="HABER" logo="https://1.bp.blogspot.com/-vDdVJAy7heA/XmyqU6mmsI/AAAAAAAAKN8/y2XUOUndCDcYIDSUekAjzZgyCM0d6sAQCLcBGAsYHQ/w945-h600-p-k-no-nu/dGYZIpT3400x400.png", YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 type="stream" channelId="1094" group="HABER", YOL TV YEDEK
@@ -971,8 +963,6 @@ http://istanbul.tvizlehd.com/live/bbnturk.m3u8
 https://live.duhnet.tv/S2/HLSLIVE/cnnturknp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1070" group="HABER", CNN TURK HD
 https://mn-nl.mncdn.com/blutvcnnturk2/live.m3u8
-#EXTINF:0 type="stream" channelId="1070" group="HABER", CNN TURK SD
-http://istanbul.tvizlehd.com/live/cnnturk.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhaR0YnYSDliZsoIf9G5LpBjGmvDwpShBv2oXIho5ts1eD3npq30MDnWauUzKY-K7CFqwLm5X32mfqeuX-3lU8o6Cg9aDYtmofyKVrVKNvwSwhI-mt6r0FZt0ukgeE3AxoKbf8Z5vcGVUqLEmpUYQFCIyVtHtqfjlbm37HAVzHDzTZljGgnFOcJ5w=w125-h61", GUNE DOGUS TV
 http://cdn1-gunedogustv.yayin.com.tr/gunedogustv/ngrp:gunedogustv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://blogger.googleusercontent.com/img/a/AVvXsEiJIDivdgpqFR9ie8XCf45kyX8dq6V9cFV56HglVtIcer7ZReV5y-dAXjsECaHxinLGyiZIPVVLIgDhQuurehc25Vft01Sa3TLq1d5JJ7rOBreisF8ToLbkbw2ANhCj9GrC1XIxFepG2EpoYxktXDvxCvRdHtM3GvDIVPrLcmyhPATefFocjZXIryA", HABER 61 HD
@@ -1119,6 +1109,14 @@ https://hls.247box.live/hls/stream.m3u8
 http://deejaytv-lh.akamaihd.net/i/DeejayTv1@129866/index600av-p.m3u8
 #EXTINF:0 type="stream" channelId="1915" group="MÜZİK MODA", EURO DANCE HD
 http://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", DANCE HITS OF THE 90'S
+http://140.238.127.147/streams/1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", BEST | Live Performances
+http://140.238.127.147/streams/3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", RDH90'S
+http://140.238.127.147/streams/4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://i.hizliresim.com/tfqlbmz.png", RUSIA POP BOX 90
+http://140.238.127.147/streams/6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="MÜZİK MODA" logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklistw1467262774.m3u8
 #EXTINF:0 type="stream" channelId="1106" group="MÜZİK MODA", MTV BIGGEST POP HD
