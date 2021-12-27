@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="TDS 21.12.18" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
+#EXTINF:0 type="stream" channelId="-1" group="21.12.27" logo="https://pbs.twimg.com/profile_images/1182403244607324160/I-KUxVbM_400x400.png", TDStv
 https://www.youtube.com/watch?v=ydOcrOkwcnk
 #EXTINF:0 type="stream" channelId="1056" group="ULUSAL" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQNwACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master720.m3u8
@@ -163,11 +163,11 @@ https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8 
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
 https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 3
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT4
 https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 1
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT3 Çocuk
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="1871" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TEBER 6
+#EXTINF:0 type="stream" channelId="1871" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT 6
 https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitsWDJQyL-9EEEmimh1jl2CFRuihoK1b9flvXAfqc3VTKQ9IrjUNtRBlBDZFM3lGoNOFYzmiWePG4n5pPVQiL0vc3kp1oSwax80gmvnqlsCy9Fl26zeObeVmRi6jKGcwTqZ1HBr8R1uwNodsSd5NzT46g-6c6ZGIBiSt8uVzyvCIk9MpKwfiDTQ", BOX KEMAL SUNAL TV
 http://istanbul.tvizlehd.com/live//sabantv.m3u8
