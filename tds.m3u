@@ -2975,8 +2975,6 @@ http://arabeskmelodi.kesintisizyayin.com:8888/;
 http://dinle.arabeskradyo.biz:2011/;
 #EXTINF:0 type="stream" channelId="3954" group="RADYO", ALEM FM
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3954" group="RADYO", ALEM FM YEDEK
-http://scturkmedya.radyotvonline.com/stream/80/
 #EXTINF:0 type="stream" channelId="-1" group="RADYO", AKSARAY FM
 http://yayin.yayindakiler.com:4010/;stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="RADYO", BURSA FM
@@ -3023,14 +3021,15 @@ http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
 http://windows.showradyo.com.tr/;
 #EXTINF:0 type="stream" channelId="-1" group="RADYO", SLOW KARADENIZ FM
 http://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://radyotatlises.com.tr/wp-content/uploads/2021/06/logotatlises.png", TATLISES
+https://sslyayin.radyoyayini.com:7009/;
 #EXTINF:0 type="stream" channelId="-1" group="RADYO", TURKU RADYO
 http://radyo.turkuradyo.net:4591/;
-#EXTINF:0 type="stream" channelId="-1" group="RADYO", TURKU RADYO
-#EXTINF:0 type="stream" channelId="-1" group="RADYO", logo="https://www.offradio.gr/wp-content/uploads/2021/02/off_logo.png", OFF RADIO
+#EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="https://www.offradio.gr/wp-content/uploads/2021/02/off_logo.png", OFF RADIO
 http://s3.yesstreaming.net:7062/stream;
-#EXTINF:0 type="stream" channelId="-1" group="RADYO", logo="http://www.radio2019.com.tr/wp-content/uploads/2018/04/alt_radio_2019_logo.png", 2019
+#EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="http://www.radio2019.com.tr/wp-content/uploads/2018/04/alt_radio_2019_logo.png", 2019
 http://31.210.157.103:80/stream/494/;
-#EXTINF:0 type="stream" channelId="-1" group="RADYO", logo="https://pbs.twimg.com/profile_images/741160892189028352/klVU7ucz.jpg", BNR KIRCAALİ
+#EXTINF:0 type="stream" channelId="-1" group="RADYO" logo="https://pbs.twimg.com/profile_images/741160892189028352/klVU7ucz.jpg", BNR KIRCAALİ
 https://edge16.cdn.bg:20320/fls/Kardzhali.stream/chunklist_w57022820.m3u8
 
 #EXTINF:-1 group-title="Russia",Sochi - Морвокзал Сочи  улица Несебрская
