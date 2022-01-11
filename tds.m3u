@@ -163,11 +163,11 @@ https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8 
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://tv48.com.tr/assets/uploads/46up3112709400.webp", TV 48
 https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT4
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT1
 https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT3 Çocuk
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT2
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="1871" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT 6
+#EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://i.hizliresim.com/tfqlbmz.png", TBRT3
 https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="IPTV 1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEitsWDJQyL-9EEEmimh1jl2CFRuihoK1b9flvXAfqc3VTKQ9IrjUNtRBlBDZFM3lGoNOFYzmiWePG4n5pPVQiL0vc3kp1oSwax80gmvnqlsCy9Fl26zeObeVmRi6jKGcwTqZ1HBr8R1uwNodsSd5NzT46g-6c6ZGIBiSt8uVzyvCIk9MpKwfiDTQ", BOX KEMAL SUNAL TV
 http://istanbul.tvizlehd.com/live//sabantv.m3u8
@@ -1013,6 +1013,78 @@ https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
 https://mn-nl.mncdn.com/blutvekoturk2/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="HABER" logo="https://finansturktv.com/images/logo.png", FiNANS TURK
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", MENING Y5 TV
+http://94.158.54.54:4000/play/a00v/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", ÖZBEKİSTAN TARİHİ TV HD 
+http://94.158.54.54:4000/play/a00x/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", BOLAJON TV
+http://94.158.54.54:4000/play/a00r/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", ÖZBEKİSTAN 24 TV HD
+http://94.158.54.54:4000/play/a010/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", ÖZBEKİSTAN TV HD
+http://94.158.54.54:4000/play/a00l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", YOSHLAR TV
+http://94.158.54.54:4000/play/a00m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", ZOR TV HD
+http://94.158.54.54:4000/play/a00k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", NAVO TV HD
+http://94.158.54.54:4000/play/a00s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", MILLY TV HD
+http://94.158.54.54:4000/play/a00z/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", TAŞKENT TV
+http://94.158.54.54:4000/play/a00n/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", MADANIYAT VA MA'FIRAT TV HD
+http://94.158.54.54:4000/play/a00p/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", LUX TV HD
+http://94.158.54.54:4000/play/a006/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", DÜNYA TV HD
+http://94.158.54.54:4000/play/a00q/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", MAHALLA TV HD
+http://94.158.54.54:4000/play/a00w/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", OILAYIV TV
+http://94.158.54.54:4000/play/a00u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", KINOTEATR TV HD
+http://94.158.54.54:4000/play/a00t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ÖZBEK" logo="https://i.hizliresim.com/tfqlbmz.png", SPORT TV
+http://94.158.54.54:4000/play/a00o/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 type="stream" channelId="3089" group="SPOR", A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:0 type="stream" channelId="3089" group="SPOR", A SPOR SD
